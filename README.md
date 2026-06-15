@@ -1,28 +1,32 @@
-# 📚 Curso: Big Data - Especialización en Analítica de Datos
-**1er Semestre G2** | 2026
+# 📚 Big Data — Especialización en Analítica de Datos (1er semestre, G2 · 2026)
 
-> Repositorio con los resúmenes y materiales del curso de Big Data. El curso cubre ciencia de datos, machine learning, inteligencia artificial y herramientas prácticas como Databricks, Spark y GitHub.
-
----
-
-## 🗓️ Calendario del Curso
-
-| Clase | Fecha | Tema Principal | Estado |
-|---|---|---|---|
-| **Clase 1** | 05 de junio de 2026 | Introducción a Big Data, configuración de GitHub y Databricks | ✅ Completada |
-| **Clase 2** | 06 de junio de 2026 | Arquitectura Medallion, prácticas con PySpark y Genie | ✅ Completada |
-| Clase 3 | 20 de junio de 2026 | TBD (confirmado por profesor) | ⏳ Pendiente |
-| Clase 4 | 22 de junio de 2026 | TBD | ⏳ Pendiente |
-| Clase 5 | 25 de junio de 2026 | TBD | ⏳ Pendiente |
-
-> **Nota**: El profesor viajará al Databricks Summit en San Francisco del 15-18 de junio. No habrá clase esa semana.
+> Repositorio del curso de Big Data y del **proyecto final**. Cubre arquitectura Medallion en Databricks, PySpark, machine learning y flujo de trabajo con GitHub. Docente: **Yeis Livis Taborda Henao** ([@yeiscop](https://github.com/yeiscop)) · UNAULA, Facultad de Economía.
 
 ---
 
-## 📦 Estructura del Repositorio
+## 🚀 Cómo ejecutar este proyecto (TL;DR)
+
+```bash
+# 1. Clonar
+git clone https://github.com/juliomario11/Entrega_BIGDATA.git
+cd Entrega_BIGDATA
+
+# 2. Entorno
+python -m venv .venv && source .venv/bin/activate
+pip install -r requirements.txt
+
+# 3. En Databricks: importar la carpeta /notebooks como Git folder
+#    y ejecutar en orden: bronze -> silver -> gold -> modelo -> dashboard
+```
+
+> Detalle completo del pipeline en [`docs/EJECUCION.md`](./docs/EJECUCION.md).
+
+---
+
+## 🗂️ Estructura del repositorio
 
 ```
-BIG_DATA/
+Entrega_BIGDATA/
 ├── Clase_1/
 │   ├── Clase_1_Transcripcion.txt
 │   ├── Clase_1_Transcripcion.vtt
@@ -37,141 +41,93 @@ BIG_DATA/
 │   ├── Big_Data_to_AgentOps.pdf
 │   ├── Modern_Data_Refinery.pdf
 │   └── PROYECTO_FINAL.pdf
+├── notebooks/              # ⬅️ FALTA: pipeline ejecutable
+│   ├── 01_bronze.py
+│   ├── 02_silver.py
+│   ├── 03_gold.py
+│   └── 04_modelo.py
+├── src/                    # funciones reutilizables (limpieza, features)
+├── docs/
+│   ├── EJECUCION.md
+│   ├── caso_de_negocio.md
+│   └── arquitectura.md
+├── data/                   # SOLO muestras pequeñas (datos reales NO se versionan)
+├── .gitignore
+├── requirements.txt
+├── LICENSE
 └── README.md
 ```
 
 ---
 
-## 📋 Resúmenes de Clases
+## 🗓️ Calendario
 
-### [Clase 1 - 05 de junio de 2026](./Clase_1/Resumen_Clase1_BigData.md)
+| Clase | Fecha | Tema | Estado |
+|---|---|---|---|
+| **Clase 1** | 05 jun 2026 | Introducción a Big Data, las 5 V, setup de GitHub y Databricks | ✅ |
+| **Clase 2** | 06 jun 2026 | Plataformas de nube, profundización Medallion, PySpark y Genie | ✅ |
+| **Clase 3** | sáb 20 jun 2026 | Workshop: riesgo de crédito con dataset de Kaggle | ⏳ |
+| Clase 4 | lun 22 jun 2026 (~5:30 pm) | TBD | ⏳ |
+| Clase 5 | jue 25 jun 2026 (~5:30 pm) | TBD | ⏳ |
 
-**Contenido principal:**
-- Introducción a Big Data y las 5 V (Volumen, Velocidad, Variedad, Valor, Veracidad)
-- Configuración paso a paso de GitHub (cuenta, fork, clonación en Databricks, Personal Access Token)
-- Configuración de Databricks Free Edition
-- Creación de branches en Git
-- Ecosistema de herramientas: Power BI, Tableau, scikit-learn, TensorFlow, PySpark, Kafka, etc.
-- Metodología del curso: 5 clases + 3 asesorías por equipo
-- Arquitectura Medallion (Bronce → Plata → Oro)
-- Práctica con sensores de presión de agua en PySpark
-- Introducción a Genie (asistente de IA de Databricks)
-
-**Entregables:**
-- Crear cuenta en GitHub
-- Hacer fork del repositorio del profesor
-- Clonar en Databricks
-- Generar Personal Access Token
-- Crear branch de trabajo
+> El profesor viaja al **Databricks Summit (San Francisco)** del 15 al 18 de junio; regresa el 19 en la noche.
+> En vez de una 6.ª clase, cada equipo tiene **3 asesorías de 45 min** (se piden por WhatsApp/correo).
 
 ---
 
-### [Clase 2 - 06 de junio de 2026](./Clase_2/Resumen_Clase2_BigData.md)
+## 🎯 Proyecto final — entrega: **29 de junio de 2026 (inamovible)**
 
-**Contenido principal:**
-- Noticias del sector (LLMs, ChatGPT, Gemini, Anthropic)
-- Presentaciones del curso en inglés (3 presentaciones disponibles en Teams)
-- Diversidad de perfiles en el curso (administradores, politólogos, ingenieros, contadores, licenciados)
-- Profundización en la arquitectura Medallion
-- Plataformas de nube: AWS (S3, SageMaker), Azure (ADLS Gen2, Azure ML, AI Foundry), GCP (BigQuery, GCS, Vertex AI)
-- Repositorios como hoja de vida profesional
-- Práctica 1: sensores de presión de agua con PySpark
-- Ejercicio con Genie: simulación de medidores de energía con modelo de regresión
-- Tipos de modelos: supervisados, no supervisados, semisupervisados, por refuerzo
-- Spark DataFrame vs pandas DataFrame
+Equipos de **2 personas (máx. 3)**. Componentes:
 
-**Asignaciones pendientes:**
-- Definir caso de negocio para el proyecto final
-- Solicitar asesorías de 45 minutos (por WhatsApp o correo)
-- Continuar trabajando en el repositorio de GitHub
+1. **Caso de negocio** — real o con datos simulados.
+2. **Análisis beneficio–costo** — cualitativo.
+3. **Arquitectura propuesta** — diagrama de herramientas/frameworks.
+4. **Pipeline de ingesta** — automatizado, arquitectura Medallion.
+5. **Modelo / análisis** — consumo por modelo o regla de negocio.
+6. **Visualizaciones** — Power BI, Tableau u otra.
+7. **Repositorio documentado** en Markdown.
+
+> 💡 En Databricks, el **catálogo / linaje de datos (Unity Catalog)** es ~**50%** de la nota.
 
 ---
 
-## 🎯 Trabajo Final
-
-**Fecha de entrega:** 29 de junio de 2026 (inamovible)
-
-**Equipos:** 2 personas (máximo 3)
-
-**Componentes:**
-1. **Caso de negocio** - real o con datos ficticios/simulados
-2. **Análisis beneficio–costo** - cualitativo
-3. **Arquitectura propuesta** - diagrama de herramientas/frameworks
-4. **Pipeline de ingesta de datos** - automatización (arquitectura medallion)
-5. **Modelo / análisis** - consumo por modelo o regla de negocio
-6. **Visualizaciones** - Power BI, Tableau u otra herramienta
-7. **Repositorio en GitHub** - documentado en Markdown
-
-**Clave:** El catálogo/linaje de datos (Unity Catalog) en Databricks es ~50% del trabajo.
-
----
-
-## 🔧 Herramientas del Curso
+## 🔧 Stack del curso
 
 | Categoría | Herramientas |
 |---|---|
-| **Procesamiento** | Spark, PySpark, Kafka |
-| **Visualización** | Power BI, Tableau, Qlik Sense, Dash, Gradio |
-| **ML/Modelado** | scikit-learn, TensorFlow, PyTorch, MLflow |
-| **Exploración** | pandas, NumPy, Matplotlib, Seaborn |
-| **Bases de datos** | Cassandra, MongoDB, Neo4j |
-| **Storage** | AWS S3, Azure ADLS Gen2, Google Cloud Storage |
-| **Fuentes de datos** | Kaggle, Hugging Face |
-| **Plataformas** | Databricks, AWS, Azure, GCP |
-| **IA Asistentes** | Genie (Databricks), GitHub Copilot, Claude Code, Cursor, Gemini |
+| Procesamiento | Spark, PySpark, Kafka |
+| Visualización | Power BI, Tableau, Qlik Sense, Dash, Gradio |
+| ML / Modelado | scikit-learn, TensorFlow, PyTorch, MLflow |
+| Exploración | pandas, NumPy, Matplotlib, Seaborn |
+| Bases de datos | Cassandra, MongoDB, Neo4j |
+| Storage | AWS S3, Azure ADLS Gen2, Google Cloud Storage |
+| Fuentes | Kaggle, Hugging Face |
+| Plataformas | Databricks, AWS, Azure, GCP |
+| Asistentes IA | Genie (Databricks), GitHub Copilot, Claude Code, Cursor, Gemini |
 
 ---
 
-## 📄 Documentos de Referencia
+## ⚠️ Reglas de oro
 
-La carpeta `Documentos/` contiene material complementario al curso:
+1. **Nunca subas tokens ni credenciales** (PAT de GitHub, claves de Databricks). Si algún token quedó en el historial, **revócalo y genera uno nuevo**.
+2. **Nunca trabajes directo sobre `main`** — usa ramas `feature_*`.
+3. **GitHub es para código, no para datos.**
+4. Nombres **sin eñes, tildes, mayúsculas ni espacios** (archivos, ramas, variables).
+5. **No actives BigQuery/GCP con tu tarjeta personal** — puede generar cobros.
+6. Usa **correo personal** para GitHub y Databricks.
 
-| Documento | Descripción |
+---
+
+## 📄 Documentos de referencia (`Documentos/`)
+
+| Documento | Tema |
 |---|---|
-| **Big_Data_UNAULA_First_Module.pdf** | Fundamentos teóricos de Big Data - Módulo 1 de UNAULA |
-| **AI_Native_Data_Blueprint.pdf** | Arquitectura de datos nativa para inteligencia artificial |
-| **Modern_Data_Refinery.pdf** | Procesos modernos de refinería y transformación de datos |
-| **Big_Data_to_AgentOps.pdf** | Evolución de Big Data hacia operaciones con agentes de IA |
-| **PROYECTO_FINAL.pdf** | Especificaciones detalladas del proyecto final del curso |
-
-> 💡 Estos documentos complementan los resúmenes de cada clase y proporcionan información detallada para el desarrollo del proyecto final, especialmente en las áreas de arquitectura de datos y pipelines de procesamiento.
+| `Big_Data_UNAULA_First_Module.pdf` | Fundamentos de Big Data (Módulo 1) |
+| `AI_Native_Data_Blueprint.pdf` | Arquitectura de datos nativa para IA |
+| `Modern_Data_Refinery.pdf` | Transformación de datos a escala |
+| `Big_Data_to_AgentOps.pdf` | De Big Data a operaciones con agentes |
+| `PROYECTO_FINAL.pdf` | Especificaciones y criterios del proyecto |
 
 ---
 
-## ⚠️ Advertencias Importantes
-
-1. **No actives BigQuery/GCP con tu tarjeta personal** - puede generar cobros significativos
-2. **Regla de oro al programar:** nada de eñes, tildes, mayúsculas ni espacios en nombres de archivos, ramas o variables
-3. **Nunca trabajes directo sobre `main`** - usa branches
-4. **GitHub es para código**, no para almacenar datos
-5. **Usa correo personal** para GitHub y Databricks (no institucional, salvo convenio)
-
----
-
-## 📞 Contacto del Profesor
-
-- **WhatsApp o correo** para solicitar asesorías
-- Viaja al **Databricks Summit en San Francisco** del 15-18 de junio
-- Regresa el 19 de junio en la noche
-
----
-
-## 🎓 Recursos Adicionales
-
-- **Databricks Academy** - cursos y certificaciones gratis
-- **Teams** - 3 presentaciones del curso (en inglés)
-- **Repositorio del profesor**: https://github.com/yeiscop/Big_Data - hacer fork para comenzar
-
----
-
-## 📝 Próximos Pasos
-
-1. ✅ Revisar resúmenes de clases 1 y 2
-2. 🔄 Completar configuración de GitHub y Databricks
-3. 🔄 Definir caso de negocio para el proyecto final
-4. 🔄 Solicitar primera asesoría (3 disponibles por equipo)
-5. ⏳ Prepararse para el workshop de riesgo de crédito (Clase 3)
-
----
-
-*Última actualización: 13 de junio de 2026*
+*Repo basado en un fork de [github.com/yeiscop/Big_Data](https://github.com/yeiscop/Big_Data). Última actualización: 14 de junio de 2026.*
