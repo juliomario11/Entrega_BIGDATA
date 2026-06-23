@@ -1,0 +1,1411 @@
+[Esp. Analítica de Datos Primer semestre G2] Enrique, mi otro grupo y yo, pero y yo en qué grupo estoy que solamente estamos y yo y yo no jodas. Bueno, listo entonces. Vamos a iniciar, vamos a terminar esta clase. Si Kevin me mató Henry, vamos a iniciar esta clase y nos vamos sin descanso. Bueno, hasta que la terminemos porque entre hoy y el jueves tenemos que terminar el módulo.
+
+[LEDY LORENA LOZANO PALACIO] Profe y Henry si se pasó para este no, pero no le dejemos botado.
+
+[Esp. Analítica de Datos Primer semestre G2] Y pues. yo no sé, ahí sí, ya yo se me valió las manos. ¿Cómo lo uno?
+
+[LEDY LORENA LOZANO PALACIO] Pero a ver si que se puede.
+
+[Esp. Analítica de Datos Primer semestre G2] Por acá, por gente, lo uno no busco a Henry.
+
+[LEDY LORENA LOZANO PALACIO] Sí, Henry, sí.
+
+[Esp. Analítica de Datos Primer semestre G2] Henry Antonio Uya San Rodrigo, es que él me llamó y toque, estaba perdido. Él está acá, Henry, Henry, usted está acá, Henry, usted está en la reunión,
+
+[LEDY LORENA LOZANO PALACIO] sí, con la orden.
+
+[Esp. Analítica de Datos Primer semestre G2] ya está cierto, ya entró.
+
+[LEDY LORENA LOZANO PALACIO] No.
+
+[Esp. Analítica de Datos Primer semestre G2] Henry.
+
+[LEDY LORENA LOZANO PALACIO] Yo no lo veo, profe, no, Henry no está acá.
+
+[Esp. Analítica de Datos Primer semestre G2] Yeah, that's new.
+
+[ANDRES FELIPE SUAREZ RAMIREZ] Ya se fue.
+
+[Esp. Analítica de Datos Primer semestre G2] Bueno.
+
+[LEDY LORENA LOZANO PALACIO] Selecciones.
+
+[Esp. Analítica de Datos Primer semestre G2] Yo llamo aquí al WhatsApp. Henry, Henry, Henry. No lo veo. Listo, bueno, llegué, pues toca Henry, aquí lo vi, ya lo voy a llamar. Bueno, muchachos, Estelito está en la reunión.
+
+[LEDY LORENA LOZANO PALACIO] Pues ella está por ahí ahorita.
+
+[Esp. Analítica de Datos Primer semestre G2] Laura, o si no empiezo yo directamente, yo es para que miremos lo que ella
+
+[LEDY LORENA LOZANO PALACIO] Japón.
+
+[Esp. Analítica de Datos Primer semestre G2] hicieron.
+
+[LEDY LORENA LOZANO PALACIO] A Estela si está en la reunión, pero.
+
+[LAURA MARCELA GAVIRIA YEPES] Yo estoy.
+
+[Esp. Analítica de Datos Primer semestre G2] Espera, Henry, hola.
+
+[LEDY LORENA LOZANO PALACIO] D.
+
+[Esp. Analítica de Datos Primer semestre G2] Henry, usted estaba en el otro grupo de reunión, otra reunión conmigo, cierto, era usted que estaba conmigo solito. ¿Será? ¿Van a mandar un link por el cómo hacemos para ir a Henry? Yo no he sido capaz, yo le estoy dando acá a gente en.
+
+[LEDY LORENA LOZANO PALACIO] Profe, dígale que le mandamos el link por un grupo que nosotros tenemos de WhatsApp.
+
+[Esp. Analítica de Datos Primer semestre G2] ¿Usted sabe el grupo del WhatsApp? Lo voy a mandar por acá en la llamada a solicitar unirse de ataque, contésteme. Contésteme por ti, él lo estoy llamando, conéctese a lo que le estoy llamando. Eso, Henry. This is where we are. Bueno, muchachos, entonces vamos a hablar con la clase de hoy porque en la clase pasada habíamos terminado que íbamos a hacer una discriminación entre agentes de entre imágenes. They are imágenes. Imágenes reales, cierto, ahí vamos, cierto. Bueno, ya ingresamos, pues ya todos estamos acá, ya ingresó Henry también, que era con el que está dando la clase personalizada, pero bueno, ya todos estamos. No sé, ¿quieren que yo la de directo o quieren que interactuemos como hemos hecho en clase? ¿Qué les parece mejor? Stay this year.
+
+[LEDY LORENA LOZANO PALACIO] Pues si Laura iba a compartir, lo podemos seguir haciendo con ella.
+
+[Esp. Analítica de Datos Primer semestre G2] Okay. Lo que pasa es que una parte la hizo Estelita y otra parte la hizo Laura.
+
+[LEDY LORENA LOZANO PALACIO] Ancela tiene problemas de audio.
+
+[Esp. Analítica de Datos Primer semestre G2] Okay.
+
+[KEVIN MATEO JIMENEZ GUISAO] Profe, pues yo pienso que por el tema del tiempo sería mi peor. Sí, pues creo yo, no sé qué opinen mis compañeros.
+
+[Esp. Analítica de Datos Primer semestre G2] No, yo listo. Listo, vámonos, pues. Voy a compartir la pantalla.
+
+[HECTOR HERNAN  BUITRAGO PABON] Sí, igual hay que grabado, entonces ya lo podemos ver.
+
+[Esp. Analítica de Datos Primer semestre G2] Okey, listo, grabar y. Ahí está grabando, listo. Bueno, y alguna pregunta me dicen, entonces esa vez hicimos lo de voy a compartir presentación. Muy bien. Y. Estábamos por acá. Camino mi pantalla.
+
+[DIANA PATRICIA MONTOYA TABARES] Sí, profundo.
+
+[JUAN JOSE BLANDON ISAZA] Depro.
+
+[SAIR STEPHANIA LOPEZ VALENCIA] Sí, profe.
+
+[GISELLA PAOLA MARTINEZ BARRIOS] Y profe.
+
+[GRACE LORENA LONDONO ARANGO] No.
+
+[Esp. Analítica de Datos Primer semestre G2] Entonces estábamos en.
+
+[HENRY ANTONIO  UYAZAN RODRIGUEZ] Yep. Niño.
+
+[Esp. Analítica de Datos Primer semestre G2] Se me olvidó donde ella un muchacho. A ver, yo voy por acá, vimos el tema de LTLYLTE, cierto, y hoy en día, pues el tema de LT es más sencillo porque ya usted puede almacenar cualquier volumen de datos. Y empezamos con. Bueno, aquí pueden ver una un pues como una fuente donde pueden estudiar más el tema de la estructura medalio, es cierto. Y aquí hay un tema muy importante de Floyd Designer, muchas empresas no abren esto al usuario final. Pero es muy bacano porque los arquitectos de datos pueden diseñar ahí sus flujos de datos de manera sencilla. Ahorita vamos a ver un tema de pailine, cierto, entonces es más o menos lo que a ver si alcanza a presentar algo acá. Sí, ahí lo van a mostrar cómo hacer un designer, entonces cogen las fuentes. Mira, hay un CSV. Lo cargan, ahorita vamos a dar algo muy parecido, no tan automático, porque el free edition no free es esta funcionalidad, pero sí podemos ver algo, los que ya laboraron los los jobs lo vieron, cierto. Entonces mire que ahí agregó un CSV luego le hace unas transformaciones por dentro. Ahí agrega otra operación a la data, muy parecido a Kanima y puso una AI función o que esas AI función a veces son costosas porque ellos consumen tokens. Ahí hay funciones, una función de SQL. En la usted es un mejor dicho, es una sentencia SQL en la cual yo le agrego un LLMS. Porque muchas veces, por ejemplo, mire con eso parece una data estructurada, pero en dentro de la data estructurada hay data no estructurada. Mire que hay comentarios, yo amo esto por tal cosa, a mí no me gusta. Entonces es data no estructurada dentro de estructurada. Y si usted quiere aprovechar esa información de que, por ejemplo, un cliente y un review de su negocio. ¿O alguien hizo un comentario de su negocio o una oportunidad de mejora? ¿Usted puede usted puede ponerle dentro de una tabla SQL? O sea, dentro, dentro de una data estructurada, poner un LLMS a que le a que le averigüe qué está diciendo, cuál es el sentimiento o la principal razón porque el cliente está disgustado conmigo o porque compran más. Valió hasta ahí. Ahí, por ejemplo, hacer un análisis de sentimiento a partir de una. Bueno, muchachos me dicen si no van entendiendo porque yo no los estoy viendo, pueden hablar, pues no estamos en clase presencial.
+
+[MAURICIO  MONTOYA RAMIREZ] Hay un problema muy bien.
+
+[JUAN FELIPE MUNOZ ZULUAGA] In profe.
+
+[Esp. Analítica de Datos Primer semestre G2] O K listo, entonces ahí lo pueden ver en un ejemplo más grande de lo que es el Database con Lake Flow. Esto lo avanzaron mucho en el último diseño, esta gente. Yo creo que esto ya lo habíamos visto, esto donde íbamos, a ver, yo recuerdo más o menos. Como nos metimos hace por acá, sí o no, íbamos por acá. Listo, llegamos acá, antes me adelante un poquito,
+
+[HENRY ANTONIO  UYAZAN RODRIGUEZ] La práctica.
+
+[Esp. Analítica de Datos Primer semestre G2] listo entonces. Vamos a entrar a la al todos pueden entrar a su data brick. Yo apenas lo iba a hacer. ¿Cuánto es con la de la universidad? Ahí estamos todos.
+
+[GRACE LORENA LONDONO ARANGO] Sí, señor.
+
+[CRISTIAN CAMILO SALDARRIAGA VELASQUEZ] Senor.
+
+[MAURICIO  MONTOYA RAMIREZ] Vamos, estamos.
+
+[Esp. Analítica de Datos Primer semestre G2] Listo, bueno, entonces. Nos vamos a ir a buscar cada uno su repo por workspace. Pues aquí me apareció una que es Big Data, no sé ustedes cómo lo llamarán o si no por WorkSpace buscan users. Y en ese usuario buscan el de el de Big Data o el que ustedes hayan hecho. Muy bien, entonces el que estamos practicando este imágenes. Este. Ese de que Laura estaba haciendo en clase.
+
+[MAURICIO  MONTOYA RAMIREZ] Pues ya lo tenemos servido.
+
+[Esp. Analítica de Datos Primer semestre G2] No sé quién lo sirvió, ya yo vi que Estela lo sirvió. Ojo,
+
+[MAURICIO  MONTOYA RAMIREZ] The end.
+
+[Esp. Analítica de Datos Primer semestre G2] el que ustedes sirvieron fue el de riesgo, el de el del crecimiento de árboles, ¿cierto?
+
+[MAURICIO  MONTOYA RAMIREZ] Todos tenemos todos servidos.
+
+[Esp. Analítica de Datos Primer semestre G2] Entonces usted usted ya se adelantó muy bien, usted tiene 2 hervir,
+
+[MAURICIO  MONTOYA RAMIREZ] Always in my class I got.
+
+[Esp. Analítica de Datos Primer semestre G2] todos sirvieron, yo no creo.
+
+[ANDRES FELIPE SUAREZ RAMIREZ] No, yo serví el primero profe, el de los árboles, este otro no.
+
+[Esp. Analítica de Datos Primer semestre G2] Exacto, el que, pero con uno tiene, no necesita terminar el otro.
+
+[ANDRES FELIPE SUAREZ RAMIREZ] Para el para el point, creo eso.
+
+[Esp. Analítica de Datos Primer semestre G2] El empoint, esta niña Estela sirvió el segundo y Laura estaba corriendo este a manopla. Cierto, yo se los voy a explicar. Si quieres lo van corriendo a medida que yo lo voy explicando. Y de pronto les pueden se pueden servir el endpoint, si no, pues no hay problema. Entonces, mire, acá lo que hacen es les voy a explicar más o menos qué hacen estas librerías. Eso es para importar data de cargo, cierto. Este de torch es muy usada para manejar tensores cuando usted está haciendo tratamiento de imágenes. Uno lo que hace es que resumen las imágenes en los componentes más significativos como colores, forma, cierto, eso se hace a través de redes neuronales convolucionales. Entonces utiliza mucho la librería de PyThors o de TensorFlow. Son las más usadas en el mercado. Syching Liar es para tirar modelos de ciencia de datos obtuna. Se las expliqué ese día que es para optimizar porque uno no sabe qué es montar. Usted puede mostrar la red neural que quiera, es decir la tantas capas ocultas y tantas neuronas. Pero cuál es la óptima? Entonces esta obtuna y ML Flow, que es el que nos registra el modelo que posteriormente nosotros vamos a servir. Ojo, esa herramienta de ML Flow es muy interesante. Para tener traza de modelos. Vale, hasta ahí, muchachos, listo. Voy a ****. Lo voy a correr, a mí siempre me da en la casa y en clase nunca me da. Entonces no me vayan a gozar. Ojo, lo voy a correr. De los barracos que usted les da siempre se lo pueden ir corriendo. Ya saben, compré la librería con pinstall, la voy y la uso con import, importo ****, importo I o S para mirar los caminos. Este shooting no recuerdo para qué es y el tema de data para las fechas. Descargo el archivo que hay en que ya lo analizamos, que hay unas imágenes de perritos. ¿Cuáles son reales y cuáles son imaginarias? Listo y voy a ir a guardo un en una estructura medallion que llamo bronce. Aquí pongo el camino donde va a quedar. Y muestro la estructura en este caso, pues mire, son imágenes de naturaleza, de gente, comida, animales y ciudades.
+
+[GRACE LORENA LONDONO ARANGO] Muy importante para mí, Laura tiene la mano levantada.
+
+[Esp. Analítica de Datos Primer semestre G2] Laura, cuéntame.
+
+[LAURA MARCELA GAVIRIA YEPES] Profe, ¿me recuerda, por favor, dónde encuentro este notebook?
+
+[Esp. Analítica de Datos Primer semestre G2] Bueno, luego World Space. Todos a la vez workspace.
+
+[LAURA MARCELA GAVIRIA YEPES] Sí, what is space?
+
+[Esp. Analítica de Datos Primer semestre G2] Y usted lo va a encontrar en recen porque usted lo hizo en la clase en la última clase. Si usted le da en recen, ahí mismo lo ve WorkSpace, vuelve a WorkSpace y en WorkSpace vamos a users.
+
+[LAURA MARCELA GAVIRIA YEPES] ¿Profe, pero entonces cuál sería el que se llama
+
+[MAURICIO  MONTOYA RAMIREZ] Parece que uno que lo hicimos del que había ahí y otro que lo hicimos con el
+
+[Esp. Analítica de Datos Primer semestre G2] Yay.
+
+[MAURICIO  MONTOYA RAMIREZ] genio.
+
+[LAURA MARCELA GAVIRIA YEPES] imagen RAM, bronce workspace?
+
+[Esp. Analítica de Datos Primer semestre G2] Pero venga, póngame cuidado, listo, workspace, workspace,
+
+[LAURA MARCELA GAVIRIA YEPES] Sí.
+
+[Esp. Analítica de Datos Primer semestre G2] vas a user y buscas tu usuario, que no es el mismo mío, el mío es el de la Universidad Nacional. No sé cuál será el tuyo. Y aquí en la mitad te va a amanecer lo que me hiciste for a mí o que este la llama tenedor Big Data. Y ese se llama. Practica 3 Real Real versus imágenes válido.
+
+[LAURA MARCELA GAVIRIA YEPES] Listo, próximo Pedro.
+
+[Esp. Analítica de Datos Primer semestre G2] Pero como usted lo corrió el sábado, usted le dan resens aquí lo va a ver de una.
+
+[LAURA MARCELA GAVIRIA YEPES] O K es el mismo.
+
+[Esp. Analítica de Datos Primer semestre G2] Es el mismo que tú estás corriendo el sábado. Bueno, entonces ya me voy para bronce, ya cree mi me dale un en bronce que entró
+
+[LAURA MARCELA GAVIRIA YEPES] Okay.
+
+[Esp. Analítica de Datos Primer semestre G2] la data bruta, que son puras carpeticas que las vimos en ****. Me están viendo la pantalla, ¿no? Sí, profe. Bueno, qué pena que es que si uno con la
+
+[ANDRES FELIPE SUAREZ RAMIREZ] Sí, sí, profe.
+
+[DIANA PATRICIA MONTOYA TABARES] Y trabajando.
+
+[GISELLA PAOLA MARTINEZ BARRIOS] Sí, profe.
+
+[Esp. Analítica de Datos Primer semestre G2] pantalla apagada es como no sé si la pueden tener apagada, pero yo soy el profesor, me toca. Bueno, voy a bronce. Y aquí lo que voy a hacer es que a lo que me dice fake le pongo uno, o sea, las imágenes falsas que fueron generadas por inteligencia artificial y a la verdadera les pongo un ser. Básicamente genera una columna, mira aquí hice un conteo, ni siquiera le he puesto uno y cero, pero después ya sí le pongo uno y cero. Ay, yo no corrí esto, después no me da nada. Este ya corrió hace 2 minutos para volver a correr este. Y en este le pongo un uno y un cero para poder tratarla como un mueble de clasificación binario. O sea, los modelos les voy a dar ese contexto estadístico, no crean que lo tienen que aprender. Cuando se lanza una moneda cae cara o sello. Y es un principio de una distribución que se conoce como Bernoulli, es la distribución Bernoulli. Pero cuando usted tira muchas caras al aire, cara o sello, cara o sello, la conjugada en el tiempo se vuelve una binomial. Esos modelos son de respuesta Bernoulli, pero su conjugada es binomial. Entonces son las los tips que ustedes tienen que saber. ¿Y cuando tiene un modelo de clasificación supervisado con respuesta binomial? Cuando la respuesta sea pasa o no pasa, por ejemplo, los actuarios. Que quieren identificar cómo determinar la prima de los carros, cuando roban ese carro y cuando no lo roban. Ellos tienen marcado todo ese historial. Es pueden dar la probabilidad de que se roben o no ese carro y de acuerdo a eso cobran la prima. O ni siquiera le dan prima de por robo, porque es un carro que le roban mucho. Eso hacen los actuarios, pues hay un compañero aquí que trabaja en la actuaria. Entonces ahí vamos a hacer un modelo de clasificación supervisado con respuesta binaria, uno o cero. Ya lo corrí, no sé, o sea, ahí está corriendo. Bueno, acá lo otro que estamos haciendo es que vamos a tener, pues ya esto, vamos a leer esta capa Silver que ya la tenemos con uno y cero y la llevamos a gold. Lo que están haciendo en gold básicamente es coger una data para entrenar el modelo, el punto el 80% y el otro 20% para testearlo. Uno en la vida practicado real. Uno coge el 70 para hacerlo, el 20 para testearlo y un 10 que él nunca haya visto para evaluarlo. Con el ánimo de que el modelo no quede sobreparametrizado, o sea, que se aprenda todo de memoria. Muchos modelos, la gente dice, no, eso tiene un nivel de hacer de acura así del 90%. O sea, yo digo que ese man no me voy a pagar y no me paga. Estoy seguro con el 90% de comienza. Eso no sale la realidad. Eso no pasa del 7580. Pues un modelo con más es complejo, puede ser que le estén diciendo mentiras. Lo que estamos haciendo es sacar una muestra aleatoria. Para el tren y para el test. Listo, entonces mire que es acá para el tren y para el test. Y ya aquí voy a mirar un resumencito de cómo me quedó la estructura medalium, qué me quedó en bronce, 995 registros, 250 falsos, 745 reales en Silver, 250 falsos, 745 reales y en gol me quedó separada en 199 falsos, 51 reales, cierto? O sea, básicamente él comenzó a dejar los datos más depurados de acuerdo a algunos parámetros que yo le hice, muchos en el trabajo ya llegaron ahí. Sino que el objetivo en este caso era decir quién era falso y real, etiquetarlo, pero muchos de sus trabajos, no, yo quiero ver cómo están las ventas después de haberles hecho una imputación de valores promedios en el año, las ventas con respecto a región. ¿O qué regiones no vendieron menos y cuáles vendieron más y qué regiones tienen campos vacíos? Y hay mucho dinero ahí, porque pero eso es depende de la necesidad que usted tenga para mostrar en la capa de oro. Las capas de oro va lo más valioso de la organización, tanto para hacer modelos como para mostrar descriptiva al usuario final. No siempre hay que hacer modelos, ¿no? Y es tanto es muy importante tener el tema del de la descriptiva antes de hacer el modelo para ahí sí saber si se puede hacer un modelo o no, porque hay veces que no se pueden hacer modelos. O hay que recurrir a esas técnicas como la estadística vallesiana para mirar qué se puede hacer, porque es que hay veces que no hay datos. ¿Cuántos cohetes han lanzado a la luna? Muy pocos como para hacer un análisis estadístico. ¿Entonces, qué toca hacer ahí? Llamar a los astronautadas y los inieros arunáticos más tensos del mundo a ver qué ha pasado y qué conocimiento se puede atrapar de ahí. O operaciones muy delicadas que se hayan hecho pocos. Ahí no hay datos tanto estadísticos, pero cuando hay muchos datos como lo que ustedes manejan Big Data, sí se puede hacer una descriptiva. Luego mirar qué variables son las más representativas y si se quiere hacer predictiva, pues ya es un modelo. Si no, pues tampoco es necesario, no siempre es necesario. Vamos bien hasta ahí, muchachos, lo que hemos hecho. Que no me está corriendo bien, no he fallado.
+
+[LEDY LORENA LOZANO PALACIO] Cuénteme, a nosotros no nos ha corrido, estamos en esas.
+
+[Esp. Analítica de Datos Primer semestre G2] Sí, pero a mí que nunca me corre no está corriendo. Bueno, listo.
+
+[@1] No, y si a mí tampoco me está corriendo tan rápido, pues como a usted en este caso.
+
+[Esp. Analítica de Datos Primer semestre G2] Tengo un internet más porque eso no es que sean computadores, todos el mismo compu. Los charros es que ahorita que estaba viendo con unos muchachos que les está ayudando en los spieline, en los spieline ofrecen compu más avanzados, o sea, Tauri se está votando con eso. ¿Bueno, ahora qué vamos a hacer? Vamos a generar como la red neuronal, cierto que nos va, nos va a explicar cada imagen. Él va a aprender a identificarse una imagen es real o no. Mire que aquí yo ya empiezo a utilizar herramientas de aquí hay muchachos que trabajan, hay muchachos. Yo aquí todos los perfiles, ustedes ahí no hay muchachos que tienen más conocimientos técnicos, otros menos, pero entonces yo intento como nivelarlos a todos porque es el tema de capacitación, por ejemplo, que escuda. Cuba es una herramienta que sirve para aprender los GPUs. Los GPUs son los las unidades de procesamiento gráfico de las máquinas. Normalmente los computadores vienen con unidades de los CPU normal, pero cuando usted ya tiene como videojuegos una nación con el tema de videojuegos o imágenes o videos, hay que los GPU son más óptimos o cuando hay operaciones materiales muy complejas, los GPU son más óptimos. Es tanto Google tiene TPUs que son mucho más. Los que tienen la nube de Google les va mucho mejor en este caso, pues yo dije que si si había GPU, préndamelo, si no, pues yo trabajo con lo que tenga porque no tengo más plata, pues aquí en este momento un computador con GPU vale más. Listo, acá sigo repiniendo como la red neuronal. Yo sé que a usted la he leído diferente, mire que aquí yo estoy en una red.
+
+[ANDRES FELIPE SUAREZ RAMIREZ] Profe, corremos ese, corremos ese bloque 7 también.
+
+[Esp. Analítica de Datos Primer semestre G2] Sí, córralo sin miedo y si no le funciona, pues.
+
+[ANDRES FELIPE SUAREZ RAMIREZ] Listo.
+
+[GISELLA PAOLA MARTINEZ BARRIOS] Thank you.
+
+[Esp. Analítica de Datos Primer semestre G2] Mire que aquí, por ejemplo, a de pronto a Estelita, que ya le hizo, ella lo hizo con Jenny, le pudo haber dado otra red neuronal. Yo hice una red neuronal ahí, pues a mi antojo. No sé si le sí le apliqué una Dino B 2, se llama Dino B 2, es un algoritmo que ya viene pre entrenado, que eso no es muy útil. Ojo, estos te los estoy enseñando porque los trabajos son muy necesarios. Uno nunca se pone hacer un algoritmo ni entrenar algoritmo desde cero, es muy rara a la vez. Uno busca en el mercado, por eso el tema de Huggin Face ya por ahí apareció. No sé los que conocen. Yo les estuve comentando de Open Cloud, que su ministra está una empresa. Los de Mistral. Uno siempre mira en el mercado, qué modelo ya han hecho que sean para, por ejemplo, para detectar imágenes falsas o reales. Cierto. Ya modelos más anillos como el riesgo de crédito, que son es data estructuradas. Sí se pueden hacer desde cero porque no cuestan, pero hacer un modelo que tenga una red neuronal para identificar imágenes es muy costoso entrenarlo desde cero computacionalmente. Es muy costoso. Entonces lo que uno hace es buscar modelos que ya tiene pre entrenados y le que ya existen en el mercado. Pre entrenados y yo los adapto a mis datos, cierto. Entonces yo aquí utilicé uno que se llama Dino B 2, ese lo estoy adaptando a mis datos. ¿Esos modelos, quién los da? Si un desocupador ya no una compañía, por ejemplo, una que se llamaba Yolo, que ellos lo que hacen es que cogen muchas imágenes. Hay una un set de imágenes de Google que llama Coco Data C, donde cogen millones de imágenes de animales, de personas y entrenan el modelo para que se para identificar. Cuando es una persona, cuando es humano, cuando es un bus, detectar objetos en una imagen, puede decirme cuando hay un carro, cuando hay un vehículo. El repo que yo les comparto para que ustedes lo digan de ejemplo que se llama Jacob, se le llama Server Rover. Lo que hace es un de los alcantarillados de Medellín, aunque ustedes no sepan, andan robots. Esos robots están tomando imágenes todo el día y la noche y esperar otro día llegaba una persona y revisaba y se demora 2 meses, pero el robo lo que necesitamos es que identifique en tiempo real cuando hay un hueco, cuando hay basura, cuando va a haber una posible inundación. Pues mientras el operario lo hace, puede morar, pues pues los empleados públicos, mentira, nosotros somos muy eficientes, nos demoramos mucho, pero la el tema de analítica es más potente. ¿Entonces, qué pasa? El robot se le puso, se le entrenó con Yolo, se le dijo a Yolo. Vea, usted conoce perros, conoce humanos, conoce bicicletas, conoce buses, pero usted no conoce los huecos que hay en esos encantarillados de PM, la basura, las obstrucciones. Pues yo le voy a enseñar a que los conozca. Se conocen el mercado como finit unit o transfer learning. Eso es muy importante. Ustedes cuando tengan que hacer modelos, entonces claro, ya el robo va por el alcantarilla de una puff avisa que hay un daño con una probabilidad, puede que vaya al funcionar y diga a ese man me está diciendo mentiras, ojo que es un modelo probabilista. Pero la mayoría de las veces le atina, entonces aquí lo que estamos usando es un modelo pre entrenado que llama Dino B 2 para detectar qué imágenes son reales y cuáles no. Y yo le estoy agregando unos parámetros de brillo de contraste válido hasta ahí. Muchachos, van bien. Pueden correr una porque solamente poner unos parámetros modelo.
+
+[LEDY LORENA LOZANO PALACIO] Con mucho robot, pero ahí vamos.
+
+[Esp. Analítica de Datos Primer semestre G2] No les ha corrido el modelo, tiene que a mí me está corriendo, a mí nunca me corre.
+
+[LEDY LORENA LOZANO PALACIO] No, a mí no me está corriendo.
+
+[Esp. Analítica de Datos Primer semestre G2] Je. ¿Quién es usted?
+
+[LEDY LORENA LOZANO PALACIO] Yo soy Leslie.
+
+[LAURA MARCELA GAVIRIA YEPES] Lo que ya me aparece un error, el bloque 7.
+
+[MAURICIO  MONTOYA RAMIREZ] En el bloque siete da un error, pero con el genio se cuadró.
+
+[Esp. Analítica de Datos Primer semestre G2] bueno, ustedes ya tienen.
+
+[LEDY LORENA LOZANO PALACIO] Es que el genio todavía no me ha hecho el milagro.
+
+[Esp. Analítica de Datos Primer semestre G2] Pregunté en el pregunté en el genio. Mientras yo voy explicando porque este no es necesario que le dé el serving en point porque ya lo ya tienen el otro, entonces con uno que salga listo. Bueno, aquí voy a utilizar PyTorch, una librería muy útil para los que les gusta el tema de grafos, de imágenes de sonidos. Es frío, open source. Si no las conoces, se las presento: Pythors, la otra que es de Google, que también es open source, extensor flow. Básicamente para generar redes neuronales. Listo y entonces funciona muy bien. Mire que yo acá estoy utilizando el modelo de Facebook Dino B 2 es propio de Facebook, Facebook lo liberó. Por ejemplo, para los que manejen series de tiempo, Facebook liberó profit para hacer análisis de varias series de tiempo en paralelo, que es muy bueno, también muy bueno. Listo, entonces yo aquí voy a utilizar el Dino. Y se lo va a aplicar a esa data con varias redes neuronales. Esto es lo que son las redes neuronales con función de regulación reel. Bueno, esta clase no tiene que ver nada con redes neuronales, pero solamente le estoy muchando por arriba porque más de uno por acá le va a tocar tragar con redes neuronales. Es para que más o menos tenga conceptos de lo que es una red neuronal. Mire que él me está diciendo que ahora no tengo disponible un GPU, pero yo le corro eso. Demora más claro. Él me hizo una, yo tengo una red neuronal con cuántos parámetros, 87 o sea, esa de y no ve 2 ustedes saben lo que es entrenar a una un algoritmo que tenga 87000000 de parámetros, pues algo ardo, pero esa gente de Facebook tiene plata, ¿no? Yo lo único que hago es aprovechar el conocimiento de ellos. O sea, yo estoy cogiendo un algoritmo que yo hicieron y lo estoy adecuando a 1000 y eso es derecho de autor, no ellos lo liberaron. Ellos son un algoritmo superpoderoso y yo lo que hago es venga algoritmo superpoderoso, yo lo necesito solamente para esto. Para que meterte que imagen es real y no. Y luego lo registro con M el Flow, listo con M el Flow, pues registro mi algoritmo. Y le pongo un esto se llama tasa de aprendizaje del algoritmo. ¿Hasta cuándo lo voy a permitir que aprenda si no se queda con bucles infinito? Yo no soy a Estelita que le dio, pues a mí me hubiera gustado ver ese algún día en mi vida, eso me lo regala porque a ella le dio. Mire que él me está diciendo que no tiene GPU A, sí. Y aquí lo voy a entrenar. Yo le aplico un número de épocas y él se va a quedar entrenando, no sé cuántas épocas le si le bajo, porque eso a veces se queda un rato ahí. ¿Quién va a estar ahí conmigo corriendo?
+
+[ANDRES FELIPE SUAREZ RAMIREZ] Oh, yo vi en el 10, profe, yo vi en el en el 10.
+
+[Esp. Analítica de Datos Primer semestre G2] Como en la 12.
+
+[LEDY LORENA LOZANO PALACIO] ¿Se van las 12?
+
+[Esp. Analítica de Datos Primer semestre G2] Es lo voy a esperar, lo voy a esperar en la lo voy a esperar
+
+[DIANA PATRICIA MONTOYA TABARES] Profe, la Dios me sacó un error.
+
+[Esp. Analítica de Datos Primer semestre G2] hasta la 12, va a servir una soda o un agua acá en la
+
+[ANDRES FELIPE SUAREZ RAMIREZ] Hágale, hágale, hágale pro.
+
+[Esp. Analítica de Datos Primer semestre G2] casa.
+
+[LEDY LORENA LOZANO PALACIO] sí, vaya, vaya porque.
+
+[Esp. Analítica de Datos Primer semestre G2] Bueno, los muchachos caen mientras van llegando ahí. Los muchachos que han asistido a la asesoría van bien, cierto, los que me falta ver algunos otros. Voy a aprovechar la llamada lista a los cuatro extintos. ¿Son Blanca Nidia, posible retiro, sí o no? Daniela Medina Durango. Carlos Daniel Rodríguez Varela. Y Manuel Alzate Quintero, nadie los conoce. Bueno, ya.
+
+[MAURICIO  MONTOYA RAMIREZ] Ah, map of.
+
+[GRACE LORENA LONDONO ARANGO] Sí, los que estamos resaltadito en amarillo,
+
+[CRISTIAN CAMILO SALDARRIAGA VELASQUEZ] No, señor.
+
+[GRACE LORENA LONDONO ARANGO] que.
+
+[Esp. Analítica de Datos Primer semestre G2] Es porque ya he hablado con ellos varias veces, o sea, también.
+
+[GRACE LORENA LONDONO ARANGO] Oh. ¿Qué es eso? Yo dije, ya me van a devolver.
+
+[Esp. Analítica de Datos Primer semestre G2] Y. Bueno, lo otro es que yo paso la nota el viernes. Listo.
+
+[ANDRES FELIPE SUAREZ RAMIREZ] ¿Cómo así, profe cuál viernes, cómo así?
+
+[Esp. Analítica de Datos Primer semestre G2] Este viernes que viene. Necesito ver de aquí al viernes, mínimo la primera con cada uno mínimo. Listo, ustedes es que ustedes.
+
+[GRACE LORENA LONDONO ARANGO] El viernes dice, el sábado se acaba la materia, ¿no?
+
+[MAURICIO  MONTOYA RAMIREZ] Profe, o sea, el jueves en la clase del jueves se acaba
+
+[Esp. Analítica de Datos Primer semestre G2] No, ya.
+
+[MAURICIO  MONTOYA RAMIREZ] la materia.
+
+[Esp. Analítica de Datos Primer semestre G2] Exacto, es que son muy corticos, apenas le dan 6 clases por módulos,
+
+[MAURICIO  MONTOYA RAMIREZ] Eso.
+
+[Esp. Analítica de Datos Primer semestre G2] muy poquito.
+
+[GRACE LORENA LONDONO ARANGO] ¿Cómo así el viernes no hay clase?
+
+[Esp. Analítica de Datos Primer semestre G2] Ya yo no, ya.
+
+[MAURICIO  MONTOYA RAMIREZ] No.
+
+[ANDRES FELIPE SUAREZ RAMIREZ] no, el juez termina todo.
+
+[MAURICIO  MONTOYA RAMIREZ] No, no, no, John.
+
+[GRACE LORENA LONDONO ARANGO] No. Ay, bendito el abrazo, Señor.
+
+[MAURICIO  MONTOYA RAMIREZ] Antes Antes me parece que a esta materia, que es principal, le dieron muy poquito tiempo.
+
+[GRACE LORENA LONDONO ARANGO] Uy, sí, la verdad, sí.
+
+[ANDRES FELIPE SUAREZ RAMIREZ] No, y para hacer ese trabajo no, ya se acabó el tiempo y no de logro.
+
+[GRACE LORENA LONDONO ARANGO] no.
+
+[Esp. Analítica de Datos Primer semestre G2] No, pero venga, los que los que han los que han empezado van muy bien, por eso es bueno que me busquen el espacio.
+
+[MAURICIO  MONTOYA RAMIREZ] No, el miércoles yo ya estoy para organizar.
+
+[Esp. Analítica de Datos Primer semestre G2] Y yo le y yo lo y yo lo y yo le digo cómo hacerlo rápido, y pero por lo menos búsquenme. Ahora, si no alcanzamos,
+
+[GRACE LORENA LONDONO ARANGO] No, pero eso mañana usted no.
+
+[Esp. Analítica de Datos Primer semestre G2] si no alcanzamos a hacer el trabajo de acá es viernes, yo veo como negocio con Yubelli, pero por lo menos búsquenme porque no todos me han buscado.
+
+[GRACE LORENA LONDONO ARANGO] Profesora me ha aceptado la de mañana, solo me ha aceptado la salidita de mañana.
+
+[ANDRES FELIPE SUAREZ RAMIREZ] No, sí, profe, mañana tenemos la de nosotros.
+
+[GRACE LORENA LONDONO ARANGO] Okay.
+
+[Esp. Analítica de Datos Primer semestre G2] No sé, no, yo ahorita miro bueno, si algo me escriben, pero ya la mayoría que me han escrito ya están agrendados.
+
+[GRACE LORENA LONDONO ARANGO] Pero usted no me aceptó la mía de mañana.
+
+[Esp. Analítica de Datos Primer semestre G2] ¿Quién es usted?
+
+[GRACE LORENA LONDONO ARANGO] Race Lorena Londoño Aram.
+
+[Esp. Analítica de Datos Primer semestre G2] Grace, usted es la generación.
+
+[GRACE LORENA LONDONO ARANGO] La que se ganó el muñequito. DP.
+
+[ANDRES FELIPE SUAREZ RAMIREZ] La del peluche, la que ganó el peluche.
+
+[Esp. Analítica de Datos Primer semestre G2] Solo muchacha generación.
+
+[GRACE LORENA LONDONO ARANGO] Al peluche, yo al peluche.
+
+[Esp. Analítica de Datos Primer semestre G2] Sí, yo ya la acepté, pero no lo he aceptado, pero sí me llegó.
+
+[GRACE LORENA LONDONO ARANGO] Power. Listo.
+
+[Esp. Analítica de Datos Primer semestre G2] Bueno. Listo, entonces bueno, esto es como un ejercicio diferente, cierto, pero lo de ustedes no es tan avanzado, pues aquí van en la 2, estoy aquí, ya estoy empiezo a entrenar el modelo y se demora un rato. ¿Por qué no empieza? A tirarse las épocas y son 10. Mientras él entrena, entonces lo van a dar entrenando ahí. En la En la. ¿Qué hacen las redes neuronales? Ellas van aprendiendo del error. Entonces dice hasta que llegue un error de tal valor que yo lo definí más o menos es e a la menos 5 pare. Entonces ya le empiezan a aprender con un tema que se llama gradiente descendiente, otro en estadística que se llama estimador de máxima verosimilitud, y hasta que llegan a ese punto mínimo paran, o sea, encontrar un mínimo en unas curvas de nivel. Si no, él no va a parar. Esto es de lo más avanzadito que hay en ciencia de datos, las redes neuronales y el. Pues yo se los digo es porque lo van a necesitar alguna vez en su trabajo. Si no se lo hubiera contado. Esta materia se basa básicamente en lo que vamos a ver enseguida, que son los payline que más uno ya los hizo, que es toda la ingesta de formación de manera automatizada y es lo que más le cuesta a las organizaciones. ¿Ahora qué pasa? Todas las organizaciones, todas las nubes y las organizaciones lo que hacen es que organizan la información en estructuras medalio. para que haya una sincronía de los datos Esa es la palabra clave sincronía de los datos entonces lo que ustedes van a ver acá lo pueden hacer en en Nine o canime o quieran pronunciarlo lo pueden hacer en la nube Azure en el adl02 en gcp en En la WS. Wei unique catálogo de data bricks. La ventaja y única catálogo de ir a es que es agnóstico. Entonces ustedes pueden hacer todo lo que quieran en las nubes y se pegan de ahí. Chao, que eso es lo que mayor, la mayor. ¿Cómo diría yo? Es lo regular que hacen las organizaciones. Usted ve a Google y se pega de un catálogo, o sea, lo que estamos haciendo nosotros. Usted ve a WS y se pega de ahí a Asus, se pega de ahí. Para gobernar los datos en el en a G se pegan de ahí, para gobernar los agentes se pegan de ahí. Entonces ustedes están aprendiendo una herramienta que la van a ver en cuando empiezan a manejar grandes volúmenes de datos, la van a ver en todos en todas partes. ¿Quién de acá en la organización utiliza de Irabrís? Dígame la verdad. ¿Quieren utilizar aire en todos ustedes? ¿O tienen data abril dentro de la organización?
+
+[ANDRES FELIPE SUAREZ RAMIREZ] Los de PM, no, profe.
+
+[Esp. Analítica de Datos Primer semestre G2] Sí, los de PM tienen. Héctor tiene. Si alguien trabaja en cristal tiene. Si alguien trabajan de uno, tiene en Pharmatodo tienen. En Bancolombia tienen en Nequis y que lo usan. Los de Nequi lo usan mucho. Bueno, eso sí, los exitosos no lo tienen, según tengo entendido, no lo tienen. Pero es una herramienta pues poderosa y también pues cualquier herramienta en la nube. Uno diría que si el de uno la está utilizando y la manera que la están utilizando, porque yo los convía allá en San Francisco. El éxito tiene que estar mosqueando. Que si no va a perderme, bueno, claro que el de uno ya ha ganado mucho mercado, su madre la tienen clara. Bueno, muchachos, ¿cómo vamos hasta ahí? Eso demos un ratico corriendo porque
+
+[MAURICIO  MONTOYA RAMIREZ] Es.
+
+[Esp. Analítica de Datos Primer semestre G2] claro, él está entrenando, por eso me hubiera gustado verlo de Estelita. Él está corriendo una época encontrando dónde está el mínimo, corre otra época al mínimo hasta encontrar el mínimo absoluto. Eso es lo que él está haciendo. Entras el corre, entonces vamos con la presentación, yo ya les había explicado que yo me adelanté un poquito acá. Les mostré lo de cómo hacer, cómo conectarnos desde Visual Studio Code. a. Ahora a cualquier herramienta en la nube con la librería que llama CLI. En DataBrid solamente es usar el host y el access token.
+
+[DANIEL RENDON ACEVEDO] Yes.
+
+[Esp. Analítica de Datos Primer semestre G2] Pero usted quiere conectarse a Azure, a otra a otra nube. Es lo mismo, es la con la misma librería de click. Aquí se llama Data Brisk Click. No sé cómo se en Azure es click directamente. Pero esa librería aquí sirve para los que les gusta trabajar directamente de Visual Studio Co y de Visual Studio Co, orquestar el repositorio, orquestar todo el código, hacer pues el tema de pailines lo pueden hacer. O sea, es una buena herramienta fuera de que permite manejar diversidad de formatos. Python, RIPYNBCS, más, Rubí, bueno, todos esos todos esos tipos de códigos. Bueno, solo que bueno, y empezamos con este tema, pues que vimos que antes la gente primero extraía, transformada y cargaba. Hoy en día, pues ya hemos visto que ustedes cargan la información cruda en bronce, load y después la transforma y antes era complejo, pero ya no. Eso se debe mucho al algoritmo que primero que todo, pues ya los la información se carga muy fácil, pues en disco, pues en alojar disco ya no era tan, antes era muy costoso, ya no es tan costoso. El estado sólido ha evolucionado sensiblemente, pues eso fue el último campo de física que se creó después de la física cuántica, que es el estado sólido. Que viene avanzando extensiblemente, pues entonces ya se vuelve menos costoso y ya venimos con computación cuántica. Yo vengo estudiando computación cuántica hace 2 años, que supuestamente para dentro de 15 años todo iba a ser con computación cuántica y en estos días leí un artículo de Gardner y está en 3 años, ya mejor dicho, vi en Python, erre, CQL. Y comienzan a prender computación cuántica porque está encima. Está encima, entonces todo eso cada vez se vuelve más fácil almacenar grande el volumen de datos y procesarlos. La computación cuántica, la diferencia es que permite estados transicionales entre 0 y uno parabilísticos. La computación tradicional maneja compuertas que solamente permiten estados discretos cero o uno. Los que estamos ya mayores y programamos en C más. Por lo menos en Assembler o en C, todo nos toca hablarlo con lenguajes de cero y uno. Hoy en día es más fácil porque son puras librerías con que usted le da funciones, objetos. Es mucho más sencillo. Antes era más complejo. Ya lo cuando uno comienza a programar con computación cuántica en este momento, pues es muy parecido a la computación antigua haciendo compuertas. Pero va a llegar un momento que va a ser sencillo. Es tanto en Python, ya hay en Python hay una librería, hay librerías para hacer programación cuántica por si quieren comenzar a cacharrear la famosa Kiskit de IBM y hay otras más. Ustedes pueden empezar a cacharrear y hacen compu, pues con computación con un computador normal, pero ustedes pueden decirle a IBM o a WS y tengo un códiguito, me lo dejar correr y se lo van a correr. Con patestía. Bueno, ahí habló un poquito de carreta, pues ya saben, primero se carga y luego se transforma lo que ustedes están haciendo normalmente. Cargan crudo y van haciendo todas sus transformaciones hasta llevarlo a gol. Estos son los cuatro pilares, pues que hablamos, que son los atsi. Cierto en las transacciones que la atomicidad, pues es que si usted empezó algo, tiene que terminarlo, por ejemplo, una transacción de dinero, pues si este le este le dijo que había enviado, esta no le llegó, eso hay que pararlo. Se utilizan pues mucho los bancos. Que lo que se van manden a un lado en la consistencia llegue el otro. El tema insolation quiere decir que todo mundo puede interactuar a la vez y no pase, pues nada con la información y el de durabilidad, pues que si se se pierde una información, pues se recupere. Eso tiene auto 6 cada segundo nanosegundo. Hay parques o archivos que se tiran por un lado, pero también se tiran por otro cluster. Entonces es muy difícil que se pierdan la información con esos pilares de AC. Eso es lo que maneja los grandes volúmenes de dato H. Bueno, ya vimos, pues que entonces bueno, otra otra otra cuestión que viene mejorando, pues el tema de. De que el primero se cargue y luego de otra forma es por el tema del más reviews, que es algoritmo. Es el famoso algoritmo de Hadoo, que es open source, que lo creó un señor Matius Zakabi por allá, no sé, eso es el que llegó a Spark. ¿Qué hace Hadoo? Lo que hace Hadoo es que primero. Tienen un algoritmo de resilisciencia que lo primero que hacen es que programan el código y después lo llevan a los datos. Ese ya le voy a mostrar una gráfica para que les quede de manera como análoga. Listo, que es porque es que se hace mucho más eficiente el tema de dejarlo. Listen to yo. Luego transformo y luego almacén, cierto, eso es lo que hace normalmente y ya después sirvo para que alguien lo vea. Eh. Nosotros en la clase vamos a ver estos, estamos viendo como esta partecita, cierto, estamos cargando, luego la cargamos la data cruda, CSV, Json, imágenes, lo que sea, y luego lo llevó a donde el Talei. Nosotros estamos hablando con formato del Talei, cierto que son parque, o sea, participamos la data en varios en varias partecitas. Se vuelve muy light y a partir de ahí hago todas las transformaciones que haya que hacer. Vamos a ver cómo va el código, yo ni me voy a fijar ahí cómo iba eso. ¿En qué época ustedes cómo van?
+
+[MAURICIO  MONTOYA RAMIREZ] El 13 se quedó ahí, pues.
+
+[Esp. Analítica de Datos Primer semestre G2] Sí, claro, porque él está corriendo.
+
+[ANDRES FELIPE SUAREZ RAMIREZ] El 2, el 12 todavía está pensando.
+
+[SAIR STEPHANIA LOPEZ VALENCIA] Profe todavía está cargando.
+
+[Esp. Analítica de Datos Primer semestre G2] No, porque es que si usted va bajando acá.
+
+[ANDRES FELIPE SUAREZ RAMIREZ] Oh.
+
+[Esp. Analítica de Datos Primer semestre G2] Al mío, la época 3 de 10 no ha terminado. Son 10 épocas, le tiré muchas, hubiera tirado 5, pero bueno, ya mientras tanto, vamos viendo la clase por acá. Yo le voy a terminar el código mientras seguimos, pues mira lo que yo hago acá. Luego visualizo esa librería Sia Board y Maroblib son muy importantes para temas gráficos. O con esas alias, por ejemplo, acá as PLT es clásica para Marol Lee. ¿Y por qué PLT? Porque así hablan los científicos de datos y C artboard con CNS listo. Por ejemplo, Panda despede, no, yo le puedo poner cualquier chapa. Ahora con los que programan en R es mucho más estricto. Usted tiene que llamar la librería padre para invocar. Por ejemplo, usted tiene pandas, pero pandas tiene una función que se llama, no sé, stat, pero tiene otra librería que se llama una muy clásica en pandas, por ejemplo, YT, YT y YT también tiene una función que se llama. La misma, el mismo nombre Matt. Las 2 tienen unción Matt. Si uno no le pone el nombre del Papa, eso es bueno, esto de los de las chapas. Él no va a reconocer si está yendo a bandas o está o está yendo a YT. En este caso, las chapas funcionan mucho. Bueno, los alias es una chapa de la librería. Funciona muy bien porque no se pierden de que de que esto la función de qué padre, de qué librería está heredando esa función. Y lo que hago es graficar cómo fue el entrenamiento. Mire que él tiene una fusión de pérdida y hasta que no llegue ahí, él no va a parar de entrenar. Y hasta que no mejore la curada y en este caso llegó casi hasta el 100 pesos mentiras porque son datos ficticios. Y esta es la famosa matriz de confusión que era real y realmente era real y que era falso y realmente era falso. A mí me interesa atinarle a estos aquí solamente fallé en 3. En 3 en la realidad uno siempre va a fallar. No crean que esta curva, esta es la curva famosa curva de la igualdad y que la discriminación va a ser tan exacta. Por acá no dan curvitas así por acá arribita. Ahí está corriendo el código, pues dejémoslo hasta que lo registre y apenas lo registre. Lo buscamos acá en los en los models y lo servimos. Eso es lo que hay que hacer. ¿Entendido? O sea, esto ya está corrido. Bueno, muchachos.
+
+[MAURICIO  MONTOYA RAMIREZ] Yeah.
+
+[Esp. Analítica de Datos Primer semestre G2] Bueno, entonces vamos a crear un pipeline. Un pipeline con una data que se llama eficiencia. ¿Listo, esperemos un momento, qué va a pasar? Hay una data, pero el baila y no lo vamos a hacer como lo hemos hecho normalmente, como han hecho los compañeros normalmente a punta de código. Ellos a punta de código, lo que hacen es que. Dicen, vea, esta data la importé de un source, de una de una stora, de un source, donde sea, y es bruta y la llevo a una zona de barqueo, un landing source. Luego así, cruda, cruda, cruda, le hago algunos le mutiro algunos valores, por ejemplo, años solamente vienen 10000 registros, pero por efecto del ejercicio solamente quiero trabajar con 2000. Entonces le hacen un filtro y le llaman a bronce. Y hacen un overway, o sea, la sobreescriben. Normalmente uno no sobreescribe una tabla, uno hace es un fit, una actualización de la tabla, porque usted puede que la historia le sirva. De eso volver a escribir otra vez la historia, se vuelve muy pesado. Entonces te dice, bueno, tengo la historia de enero a marzo, quiero agregar abril, entonces le hago un feed ya justo abril le pongo abril, no voy a volver a cargar otra vez de enero a abril, al menos que sea un proceso que con el tiempo vayan corrigiendo, por ejemplo, saldos facturados. Ahí es diferente overright, pero lo normal es que uno hace un fit, pone información en el en el como en los pies. Hablémoslo así, cierto, pero nosotros aquí por efectos, pues de académicos, hacemos el overright. Entonces lo llamamos a bronce. Y luego de llevarlo a bronce hacemos otra depuración y hacemos otro código y lo llamamos a Silver y ya para dar la data bonita para el modelo para visualizarla la llevamos a gold. Eso es lo que han hecho los compañeros que van en asesoría. Luego yo hacen un job y sincronizan así como vimos en la Flow cada una de las actividades. Pero en este caso no vamos a hacerlo así, pues o sea, lo que les voy a explicar es otra manera de hacerlo, que es otra vez un declarative pailine. Esto es una función que me dice a traer estos, es lo mismo, pero por pasito, vaya con este esta tagala así, o sea, como por tubitos, pues se llama pailine, listo. Debo ajustar esta atacada, esta es la diapositiva número o K 15. Se llama Data Aragón. Es una información en el de eficiencia energética en edificios de Aragón. Esta data está en español. Uno de los pocos hackatones que hay en España. Entonces. Este data se ha sido descargado desde Open Data Aragón, eso es de España. Agradezco profundamente al Gobierno de Aragón estos datos que los estudiantes y demás podamos hacer este tipo de proyecto. Estas observaciones son útiles para mantener la infinidad energética y las emisiones de CO en edificios y pueden ser la base para desarrollar políticas o investigaciones futuras. Listo, bueno, no es que sea eficiencia energética, que es el top de moda en Colombia que tienen las empresas que ponen en un mundo de sensores, no, eso está bien, pero no estoy haciendo que sea de moda, eso está bien. O en un mundo de sensores en sus calderas, en sus motores y con base en eso pueden determinar en tiempo real que está consumiendo más, que está consumiendo menos. Optimizar el tema de inductancia, capacitancia, cierto. Eso lo están haciendo. Aquí es más que todo como emisiones de C o 2, cierto, entonces mire que aquí hay varias varios ejercicios que hace de previsión de consumo energético. Entonces usted puede hacer un modelo, desarrollar un modelo para predecir el consumo de energía de los servicios basados en factores como superficie, el tipo de construcción, la ubicación, etcétera. También puede predecir. Emisiones de C 2, eso sería un modelo de regresión. Multivariado, porque mire que no depende, uno normalmente es un y igual a más BX, que es, por ejemplo, el modelo clásico de la oferta y demanda de los economistas, pero acá es un y igual a más BX más C más bueno. Se x 2, bueno, varias variables. Es un modelo ya multi multivariable, lo mismo que el otro, precisión de emisiones de C o 2, pues un modelo que estime las emisiones de C o C o 2 de un edificio lo cual es crucial para las iniciativas de sostenibilidad y reducción de la huella de carbón. Entonces lo que hacen los edificios es poner arbolitos al lado, poner jardines arriba, cierto, pues en Colombia eso no se ve mucho, pues porque aquí hay mucho bosque. Pero en otros países uno ve que hacen hasta jardines verticales, eso hasta bonito, pues en el edificio donde yo trabajo hay un jardines verticales muy bonitos. Y eso disminuye, pues, la emisión de C o 2. Bueno,
+
+[HENRY ANTONIO  UYAZAN RODRIGUEZ] La gobernación.
+
+[Esp. Analítica de Datos Primer semestre G2] de tamaño la gobernación también detención de anomalías. Sí,
+
+[HENRY ANTONIO  UYAZAN RODRIGUEZ] I'm done.
+
+[Esp. Analítica de Datos Primer semestre G2] eso ya hay edificios que vienen como en ese en esa gestión social, sino que Colombia es un país rico en temas forestales. Lo que pasa es que cada vez le pegan duro, pero si usted va a otros países, allá no hay bosques. Entonces, claro, se pega mucho. Por ejemplo, España es un país que se ve un se va a turistear allí y pasa muy bueno, pero tiene carencia de recursos naturales. Entonces, desarrollar un modelo para identificar edificios que tienen un consumo de energía a misiones de C o 2 significativamente diferentes de lo esperado. Lo que puede provocar, puede indicar problemas de ineficiencia, estos moles de anomalías son muy útiles. Por ejemplo, para detectar fraudes. No solamente fraudes de consumo, sino fraudes en bancos. Cuando alguien intenta o ciberataques son muy óptimos para eso. Y aquí está la data, cierto es una data, pues es una data estructurada, fecha de emisión, fecha de expiración, emisión de C o 2, clasificación. Hay unas clasificaciones cuales emiten más C o 2 y menos C o 2, consumo de kilovatios, clasificación. Mire que hay variables categóricas y hay variables. Numéricas, eso es muy importante que ustedes lo miren antes de tipo de vivienda, es una vida categórica. Bueno. ¿Cómo van a estar muchachos?
+
+[DANIEL RENDON ACEVEDO] Bien, profe, bien.
+
+[MAURICIO  MONTOYA RAMIREZ] bien.
+
+[Esp. Analítica de Datos Primer semestre G2] Los que ya hice, los que en el trabajo ya hicieron el los
+
+[HENRY ANTONIO  UYAZAN RODRIGUEZ] What? Oh.
+
+[Esp. Analítica de Datos Primer semestre G2] payline adscript, déjelo así.
+
+[HENRY ANTONIO  UYAZAN RODRIGUEZ] I'm just safe, John.
+
+[Esp. Analítica de Datos Primer semestre G2] que es mucho más los que hicieron el país los que ya hicieron el trabajo hay unos
+
+[DANIEL RENDON ACEVEDO] ¿Profe, cómo es eso, cómo es?
+
+[Esp. Analítica de Datos Primer semestre G2] que ya hicieron y en la parte del trabajo ya hicieron los payline a punta de Script
+
+[DANIEL RENDON ACEVEDO] Ajá.
+
+[Esp. Analítica de Datos Primer semestre G2] que hicieron escribe una ingesta bronce escribe 2 transformación tal Silver Script 3 Mostrar los datos Gold No vayan, no lo vayan a cambiar por esta forma. Esta es otra forma de hacerlo. De pronto, a los que no han hecho el trabajo que les va a parecer más fácil o les va a parecer más difícil si no sean por el otro lado, porque al final lo que vamos a hacer, ya sea a punta de script o a punta de declarative es automatizar la ingesta de datos de manera. Adecuada, es decir, ingestamos, cargamos y transformamos. Válido y esa es la filosofía que ustedes tienen que llevar. Ustedes tengan datos para tratar datos, sea Big Data, Smoldeira, data estructurada, data no estructurada, data de semiestructurada, carguela cruda. Y tra Y transfórmela y luego visualícela o lleve a la capa de oro. ¿Por qué? Porque los que trabajan en entidades públicas. Oh, también privadas. Llega el auditor y eso está bien. Hey, usted anda con el dato, cómo ha, vamos a llegar machetazos. Como dice, le pregunten que pues verdad que usted esté sumando 2 + 2 y le dio 5 y porque nos queda 5. ¿Cómo así? Muéstreme porque le dio 5. Es sobre todo los que trabajan en bancos, o sea, eso sí los ahorita. Riesgo de crédito es auditado una belleza y si usted no demuestra por qué no le pesó plata a un cliente. Eso se llama discriminación, le tiene que prestar cierto y eso va a sanciones muy costosas para una empresa.
+
+[DANIEL RENDON ACEVEDO] No sé, como es un proceso de auditoría.
+
+[Esp. Analítica de Datos Primer semestre G2] ¿Por qué? No, pues básicamente, mira, yo estaba mostrada, vengo acá. Antes o a ver cómo va el código. ¿Quién hizo la pregunta? Es como no lo estoy viendo hoy estamos en clase. ¿Quién hizo la pregunta?
+
+[DANIEL RENDON ACEVEDO] Probe Daniel.
+
+[Esp. Analítica de Datos Primer semestre G2] Daniel Mario, Daniel Normal.
+
+[DANIEL RENDON ACEVEDO] Danny Rendón.
+
+[Esp. Analítica de Datos Primer semestre G2] O.K. ¿Cómo usted puede gestionar la información en David para que no lo juegan así tener un líneaje? Yo me abre otro otro por acá. Supongamos, yo estoy acá, yo aquí tengo varias estructuras de datos, ¿cierto? Entonces, en catálogo voy a buscar algunas que tenga, no sé. Siempre estábamos la gol. Vamos a esta tabla, que hay ris final. Si usted ve esta tabla, damos. Voy a prenderla el computador para poder que me corra. I just some of the moral. Vamos a ver qué datos tienen ahí. Entonces llega un auditor. Yo aquí no sé si hice un riesgo de crédito, pero llega un auditor y le dice ese man que es Coring tiene a 724. Realmente los scoring son probabilidades, están entre 0 y uno, pero no las multiplica por 1000. Vamos a dar un rango más amplio, un espectro más amplio en el tema de originación de préstamos o ventas. ¿Entonces, si vemos acá? Aquí no hay riesgo de crédito. A ver si le calculo, sí, alto riesgo. Bueno, pero no tengo un score, pero supongamos este mandió estándar ris. Y por entonces llega un auditor y le dice, muéstreme ese man porque le dio estándar y usted dónde calculo eso, si usted no tiene cómo demostrarle las variables que vieron estándar Ruiz. Se embala, cierto, eso es lo que tiene que hacer es acá venirse para el linaje, pues la tabli lo maneja así de fácil y todas las estructuras medal y lo maneja así de fácil porque usted sabe de dónde viene la información. Se le dan linaje. Cierto, sí, y la y ve que y aquí le dan este sí líneaje. ¿Y usted ve que este man viene de esta variableta? Están increíbles, Clint. Sí lo ve, usted por lo menos tiene donde ver y
+
+[DANIEL RENDON ACEVEDO] Sí.
+
+[Esp. Analítica de Datos Primer semestre G2] donde vino la información. Ahí este es muy sencillo, parece más complejos que esta tabla, esta tabla viene esta tabla y esta tabla viene otras tablas y otras variables. Entonces eso es muy importante, saber de dónde viene la información y eso es lo que hacen la auditoría de información. Los auditores hay varios tipos de auditores, hay auditores que miran la regulación en la norma. Y hay auditores ya tecnológicos. Yo tengo compañeros muy tesos en auditoría tecnológica y ahora me preguntan es por los datos. ¿Cómo calculó ese dato? ¿Qué modelo de machine le ingresó? Son hasta especialistas en ciencia de datos, así como nosotros. Entonces son manes que saben, porque si a un man que sepa de norma, pues es el Olambe. Usted le dice, no salió allí, hice un cálculo matemático, lo enredatan, pero si le da un man que sepa de datos, no tiene que mostrándole alcohol de información y por lo regular para estos tipos de información, muy bien es auditores de tecnológicos de tecnología. Bueno, vamos por acá, vamos en qué, en qué, en qué. Vamos en la época 5, faltan 5, ya no sé ustedes cuánto ya les corrió eso dónde van. Lo bueno es que tengo mucho mucha clase por darle sol. entonces.
+
+[MAURICIO  MONTOYA RAMIREZ] 88.
+
+[Esp. Analítica de Datos Primer semestre G2] ¿Y quién van las 8:00? ¿Qué computador más rápido?
+
+[LEDY LORENA LOZANO PALACIO] Yo en la 8 también.
+
+[MAURICIO  MONTOYA RAMIREZ] Mauricio.
+
+[Esp. Analítica de Datos Primer semestre G2] No jodas, bueno, listo, digamos acá.
+
+[@1] Profe, a mí no me funcionó, empezó a correrme el gozo y no me quedó
+
+[Esp. Analítica de Datos Primer semestre G2] No le funcionó.
+
+[@1] ahí pegado, generó un error, entonces me volvió a hacer reiniciar, pero no me está generando realmente.
+
+[Esp. Analítica de Datos Primer semestre G2] ¿Con quién estaba hablando Héctor?
+
+[@1] Carlos Garcés.
+
+[Esp. Analítica de Datos Primer semestre G2] El compañero de PM.
+
+[@1] Sí, señor.
+
+[Esp. Analítica de Datos Primer semestre G2] Listo, Liz. Vuélvelo a intentar, sí, pero es que cámbiale,
+
+[@1] Che, estoy intentando.
+
+[Esp. Analítica de Datos Primer semestre G2] cámbiale ese parámetro. Hay un parámetro de épocas, pero yo lo busco por acá, no sé en cuál está. A books. Hey, dónde es, ni el número de época son. Porque ahí están 10, a lo va a dar 10, a dónde está el 10. Acá. Deben buscar acá en el cuando está el liberal rate, que es la tasa de aprendizaje, ahí abajito está el número de épocas, ustedes buscan acá. Dan control F, control V, número de épocas igual a 10, se lo voy a pegar acá en el chat. Aquí se le puede poner 345. Yo puse muchas como para hacer el ejercicio ahí, pues para que diera bien bueno, pero con cuatro o 5 es suficiente. Te voy a compartir acá por el chat. Eso bien. Hay un poquito de agua, o sea, en un calor hasta raro. Bueno muchacho. Tranquilos, los que no les den paciencia. De todas maneras ese les va a quedar. Yo le voy a poner, yo le voy a agregar uno de archivo más para que nos la repo cada vez que encuentre y ustedes cada vez lo van se van dando cuenta que yo hago cambios y vuelven lo actualizo para que aprendan más conceptos. O cuando de clase en otra universidad también les dejo ser repolible. Listo, bueno, entonces. Volviendo al caso, tenemos una data de eficiencia energética. De edificios de Aragón. Una es descargarla tag y emular que mi información está en premios. otra. Simular que mi información está en la nube y gestarla directamente de ****. Ya cuando la data está bruta ahí, lo que yo hago es el pipeline, pero lo vamos a hacer primero, vamos a hacer un pipeline de manera manual y después hacemos el pipeline de manera automática, cierto, haciendo los declarativos. Pero yo los hago primero de manera manual, como lo han hecho los compañeros, ya que quedan un poquito más adelantados. Garcés, busca ya para la empresa. Todo está en la 30, Carlos. Carlos me escucha.
+
+[@1] Prope, voy martes, jueves, viernes.
+
+[Esp. Analítica de Datos Primer semestre G2] Es bueno, vemos listo, se va al edificio o a la 30, o sea,
+
+[@1] Early.
+
+[Esp. Analítica de Datos Primer semestre G2] está en el segundo piso.
+
+[@1] Sí, el edificio empiezo 2 en el costado sur.
+
+[Esp. Analítica de Datos Primer semestre G2] Listo, bueno, vemos, listo, sigamos acá.
+
+[@1] Ale.
+
+[Esp. Analítica de Datos Primer semestre G2] Pero vamos a hacer primero a manopla. Listo, entonces todos vengan acá al lado izquierdo, izquierdo, izquierdo, donde dice jobs y pipelines. Recuerden que todas están en funciones de Altabris. La parte del home, del catálogo, el workspaker es propio de ustedes. Si quieren aprender acá, hay varios demos. Ojo, hay unos demos muy buenos para aprender y pueden buscar demos de lo que ustedes trabajen. El compio donde están los computadores nos dan uno porque somos estudiantes. Esta gente en Free Edition se vienen creciendo demasiado, tiene una unas alianzas con una universidad muy fuerte en el mundo. Ahí estoy mirando a ver si de pronto hago alianza con ellos, pues yo estoy hablando con ellos allá en San Francisco y vamos a ver una alianza, pues yo le voy a decir a Joel y que les informe a ustedes para que les den pines o códigos para que se certifiquen en algunos cursos. Hay libres. Hay unos que cuestan y de pronto ustedes quieren pues que los puedan hacer. Bueno, este tema de SQL, como les lo voy a volver a explicar este tema por encimita, pues le estoy esto lo vamos a la última clase, cómo potencializar el tema de SQL y no SQL de Datavris ellos hice unos algoritmos que se traduce todo en C más antes lo hacían con foton con rediant. Y eso vuela, es tanto. Yo estoy casi seguro que en este momento el lenguaje SQL borra ostensiblemente el lenguaje Python, o sea, le da la pela. Porque el tema de querys por segundo, el tema de transformaciones es le da la pela a Paito en este momento, o sea en un futuro. Bueno, aquí yo puedo hacer querys, dashboards. Algunos muchachos van a utilizar los dashboards de Data Bridge si quieren utilizarlo. Él tiene su asistente Ginny también, o sea, el Ginny va hablando del dashboard. Hey. O sea, usted le entrega el dasboa a un usuario final y el usuario final no tiene que ir a preguntarle qué hizo el dasboa. El Gini le dice, no, yo te cuento. Bueno, tiene el Gini Spa que eso lo vamos a ver también. Cómo hacer agentes de manera sencilla sin necesidad de tener covid Y aquí tiene el data engineer que que es para ingestar datos que ahorita vamos a ver cómo se ve pues el data engineer tiene el playground para jugar con varios tipos de agentes también lo vamos a ver cuándo no sé pues lo vamos a ver Usted puede hacer varios agentes ahí ver el código y tiene experiments donde vemos los modelos que podemos hacer modelos. Yo les iba a mostrar algo por acá muy interesante, bueno, eso es como lo más importante que ustedes pueden hacer en cierto. Vamos a ver lo de los paila jobs y paila. Listo, entonces usted puede ingestar data por traer de un pipeline. ¿Entonces qué pasa? Usted la información no siempre la tienen en un storage on premise o en la nube. Hay veces que está en estos señores, están pogres, está en Google Analytics Road, un SQL Server, está en Oracle. Bueno, hay muchos, hay muchas fuentes de datos Teradata. Está my CQ al ser point, bueno, donde usted quiera conectar a ingestar la información, usted lo puede hacer. Cierto, esa es una forma, mire todos los que existen en el mercado les puedo decir que en esa conferencia de David están casi todas las empresas tecnológicas del mundo, están todas. No es que no me puedo conectar. ¿Cómo se llama? Se la conectan. Listo, bueno, esa es una forma de conectarse. Otra haciendo el ETL en medio automático, porque el más poderoso ley flow, pero eso no lo sueltan a uno acá en en la visión, en la versión free. Que yo aquí genero declarativa de pipeline para que se ejecuten de manera automatizada en la ingesta de datos. Y la otra forma fue la que hicieron los muchachos que ya hicieron, esa la voy a explicar enseguida. Es hacerlo de manera manual, pero así también se ve bacano. Entonces yo lo que hago es comienzo a adicionar tareitas, yo puedo adicionar, puedo combinar tareas, por ejemplo, puedo combinar tareas. Aquí dice adicionar tarea y un notebook, un IPINV. Y un Python Script que un compañero lo hizo así y es más óptimo que el notebook. Con un tema de visual data preparada, que es un lay flow, pero nosotros no lo vemos acá, se puede hacer tareas de SQL. Lanzar SQL alerta, bueno, muchas formas y gestar data de una fuente o agregarle un ETL payline. Se puede combinar en este caso vamos a agregarle notebooks. Le pongo la tarea que yo quiera, por ejemplo, ingesta. Y voy, busco mi no, yo lo puedo ir desde el desde lo puedo buscar desde mi workspace o puedo ir a al git al rep. En este caso selecciona el camino. Y vamos a ver cuál le podemos poner un payline que queramos. Yo había hecho payline, pero no vamos a irnos por pasitos. Y le puedo agregar cualquiera es. A ver cuál. Le creo otra tarea, antes voy haciendo la secuencia el tubito. Que lo voy a llamar, no sé. See you, well. Es que usted ha sido mal organizado si lo han hecho ya por pasito de esto es porque es ahí. ¿Y si le voy a agregando más tareas que tienen dependencia una de la otra, aquí le cambio el nombre? No estando, ya digo mal. Bueno, no sé por qué no me está dando cambiar, aquí puedo ver qué corrida le he hecho. Si he hecho alguna corrida, lo puedo correr va a salir error porque eso no tiene nada de coherencia. Y algo muy importante, yo le puedo asignar un trigger. Es decir, lo corro por schedulo, o sea, por programación o cuando una información llegue nueva o con una tabla sea actualizada, o si lo quiero hacer en streaming continuo, ya ustedes deciden cierto. Bueno, pues que el duele te lo va a correr, por ejemplo, una vez. Nave es cada. Cada semana. Listo. Y lo puedo correr también a mano, pero lo ideal es que no le corra mal. Ese ejemplo, pues ya me queda acá. Y yo miro cuando me ha corrido, no mire que yo aquí ya había hecho uno de Aragón, pero me estaba fallando, corrámoslo. Yo creo que es porque no tengo los archivos. Está bien porque me falló o le puedo decir a varios compañeros que el proceso falló porque él también tiene sistema de alerta. Venga, vamos acá. A este muchacho. Y aquí hay, por ejemplo. Ahora hay un tema muy importante, tiene varios serveres, yo no sé por qué tiene tantos serveres de Aiza, yo puedo poner notificaciones. Only made. Cierto, o sea, yo puedo poner eso o a o a un teams o sea o tienen un canal Slack. También puedo informar si falló la corrida. Un momento, muchachos, vamos bien hasta ahí.
+
+[DANIEL RENDON ACEVEDO] Two, two, two.
+
+[HECTOR HERNAN  BUITRAGO PABON] Yeah, bro.
+
+[Esp. Analítica de Datos Primer semestre G2] Ese no ventículo, ese es a manopla. Lo de hoy es que lo hagamos real. Bueno, en un momento yo pago la cámara, vamos a ver un momentico de puesto. De muchachos comieron ahí, pues yo lo hice de manera manual, ¿cierto? Ya uno agregan el flujito de pasos y lo y pone el pailán. Ahora lo vamos a hacer de las 2 maneras, listo entonces. Yo no sé, voy a buscar otro, voy a mirar algo acá, vamos a Word Space. ¿Cómo va Laura? ¿Cómo va Angie, las virtuales forever?
+
+[LAURA MARCELA GAVIRIA YEPES] Profe, a mí en las 9 me salió un error y luego me mandó a correr de nuevo la celda 2 a 8. Y en la 2 ya salió un error y lo estoy diagnosticando, pues con el genio.
+
+[Esp. Analítica de Datos Primer semestre G2] A mí sí me corrió, lo que pasa es que hay que puede haber pasado cambiar el número de épocas que cuando hay muchas épocas de pronto se te resetea el kernel desde el computador. Y tú no te das cuenta, pero mira que a mí ya me corrió. no, claro, me ha corrido, ¿cuántas me llevo yo? ¿Quién ya le corrió esto?
+
+[LAURA MARCELA GAVIRIA YEPES] No me salió este error desde la primera.
+
+[Esp. Analítica de Datos Primer semestre G2] Por eso tienes que volver a correr de cero, pero cámbiale el número de épocas, lo que yo les dije que cambiaran esto.
+
+[LAURA MARCELA GAVIRIA YEPES] ¿Por dónde lo cambio?
+
+[Esp. Analítica de Datos Primer semestre G2] Te lo voy a le dan control F, entonces después yo lo mando por acá en. Y le ponen 5, no 10, búsquelo en así, control FL busque. Tengo más stickers. Y tengo otros para rifar, unos llaveritos. Pues cayeron el juez.
+
+[LEDY LORENA LOZANO PALACIO] Oiga, porque faltó el mío.
+
+[Esp. Analítica de Datos Primer semestre G2] Usted no me lo ganó, él lo ganó de rosca Gracie porque trabaja
+
+[LAURA MARCELA GAVIRIA YEPES] Profe, ya lo encontré.
+
+[Esp. Analítica de Datos Primer semestre G2] conmigo, pero ganó Gracie de rosca porque y se lo
+
+[LEDY LORENA LOZANO PALACIO] no, pero si es por roscan.
+
+[Esp. Analítica de Datos Primer semestre G2] ganó Kevin por tirarse un chascarrillo. Le dan control F.
+
+[LEDY LORENA LOZANO PALACIO] No me parece.
+
+[Esp. Analítica de Datos Primer semestre G2] ¿Y le pegan eso?
+
+[LAURA MARCELA GAVIRIA YEPES] Sí, ya lo encontré.
+
+[Esp. Analítica de Datos Primer semestre G2] Y aquí ya no le pasan 10, sino que le ponen 3, cierto. Recuerde que esos computadores son académicos,
+
+[LAURA MARCELA GAVIRIA YEPES] Today.
+
+[Esp. Analítica de Datos Primer semestre G2] no son computadores de trabajo, entonces claro, se quedan pegaditos a esto.
+
+[LAURA MARCELA GAVIRIA YEPES] Probe, después de cambiarlo de 10 a 3, le doy correr en esa celda 11.
+
+[Esp. Analítica de Datos Primer semestre G2] Voy el otro. Vuelve a empegar desde arriba, le toca desde arriba, pues que lo arriba no se demora nada, vuelve a correr celda celda.
+
+[LAURA MARCELA GAVIRIA YEPES] Okay, gracias.
+
+[Esp. Analítica de Datos Primer semestre G2] Bueno, aquí vamos otra vez a Space. Buscan su buscan su usuario, el mío es de la universidad. Voy a Big Data. Yo voy a mirar si en la data que ustedes tienen ahí hay una data de Aragón, si la hay cierto data Aragón, si la ven. Pero es un notebook, ustedes tienen excesivo también ahí. Muchachos y Sergio que llama Data Aragón. Dentro de su Big Data, dentro de su repo y data. ¿Si me están escuchando?
+
+[JUAN JOSE BLANDON ISAZA] Sí, profe, sí, lo tenemos.
+
+[LUISA FERNANDA MURCIA VARGAS] Sí, profesor.
+
+[ANDRES FELIPE SUAREZ RAMIREZ] Jipravaisa.
+
+[Esp. Analítica de Datos Primer semestre G2] No, eso es un query, o sea, yo vamos a ver qué tiene y aquí tiene un
+
+[LEDY LORENA LOZANO PALACIO] Enséñalo.
+
+[Esp. Analítica de Datos Primer semestre G2] una ingesta de data eficiencia energética. O sea, hay 2 archivos que yo podría integrar. Sí, me entiende, primero la ingesta, venga para acá. O abrir esa ingesta de la eficiencia energética. Entonces, mire que lo que yo hago es que la voy a ingestar simulando como si fuera en la nube. Cierto. La corro este lo que estoy haciendo es como si la información sea en la nube y la ingesto. Marinela y Diana están por ahí.
+
+[DIANA PATRICIA MONTOYA TABARES] Sí, profe, hola, buenas noches.
+
+[Esp. Analítica de Datos Primer semestre G2] Diana y María Elena, este es el que usted necesita, mire que es muy fácil. Se llama. Ingesta data eficiencia energética, lo único que cambia es que aquí usted le va a cambiar la URL. Esta el data set.
+
+[MARINELLA GONZALEZ MAYO] Jain. Sí, ahí está.
+
+[DIANA PATRICIA MONTOYA TABARES] Listo, pero.
+
+[Esp. Analítica de Datos Primer semestre G2] Listo, es lo único que les va a cambiar a ustedes 2 todos los que y luego lo que hacemos es que la Taragón, pues le hacemos unas transformaciones. Esta parte sí me salió un error, no sé por qué. ¿Entonces yo qué haría ahí? ¿Yo qué haría ahí? Me iría para yo y pailais. Vengo a este ejemplo uno. Vengo a las tareas. Cierto. Y voy a editarlo, como edito, pues madre, ahí se me perdí. Editar trigger porque está corriendo muy bien, pero no me deja cambiar. ¿Por qué era yo? Y lo voy a editar. Mire, si quieren borrar la tarea, solamente de paran y la anen de lectax de Hector, si es como logró la tarea.
+
+[HECTOR HERNAN  BUITRAGO PABON] Sí, brother.
+
+[Esp. Analítica de Datos Primer semestre G2] This. ¿Y si esa no me la están dando borrándote porque? Bueno, vamos a. Aquí lo que yo haría sería crear una tarea que se llama ingesta. Voy al notebook que dice que es el de Aragón y es de Aragón. Y luego la adición de otra tarea, que es como el tratamiento de data. Es que es tocarle acá y sin la tarea. Notebook. ¿Que sería ya o tratamiento? Y busco el camino. ¿Que es el de atar algo? Eso hacerlo a más, no cierto. Mire que aquí me están dando varios computes, me dan hasta GPU para ingestar data, o sea, esta gente data brix. Está botada, aprovechen para aprender con ellos. O sea, me está dando para ingestar data GPUs, es uno de la pues. De pronto colap da algo de no colap a TPUs, yo no sé, ellos dan TPU y GPU, ¿cierto? En el cola también, pero no. No esta escala. O sea, yo puedo decirle, quiero un GPU para que leer. Ojo, pero ustedes en su empresa, ay, no, todo lo va a hacer con GPUs. Ojo, depende, van a usar GPUs cuando es data no estructurada, cierto. Imágenes, sonido, porque uno sale muy costoso. O cuando es un algoritmo de, por ejemplo, un algoritmo de reforce learning o de gramos que usted necesita cientos de repeticiones, pero si es una data estructurada, un archivo en plano, no. Se gastan una plata innecesaria. Yo aquí puedo poner dependencia, es cierto, aquí la usted depende de ingesta. Y de otra, o sea, le puedo poner varias dependencias. Y le puedo poner, no sé. Adicionar, por ejemplo, algunas algunas llaves o notificaciones, le puede decir, avise a tal persona que ya recorrió esta tarea, solamente eso es necesario, ¿cierto? El trigger lo dejé así. y también lo puedo correr a mano, pero me ha salido un error porque yo sé que el segundo código está. Pero yo aquí puedo ver cómo está corriendo. Mire, se está corriendo. O lo puedo ver desde acá todos los Spyline que tengo. Queda muy bien muchachos. Bueno.
+
+[MAURICIO  MONTOYA RAMIREZ] Melo, melo pronto.
+
+[Esp. Analítica de Datos Primer semestre G2] Please. Entonces ese es como el eso es lo que ustedes tienen que entregar al final, la ingesta y automatizarla cada cuánto ahora la vamos a hacer. Más suave de otra manera. No, este man por acá. La cajita me sale un error. ¿O K o K, a usted le haría usted el mismo error?
+
+[JUAN JOSE BLANDON ISAZA] Sí, probably.
+
+[Esp. Analítica de Datos Primer semestre G2] Adiós mío, ya lo tengo servido por acá en models. No, a mí no me, ni siquiera tengo servicio el primero, ay madre, ahorita vamos para el ejemplo. Esto es un tema de la librería. ¿Pero él es menos parámetro, eso les da Estrelita, cuántos época le puso a eso? Creo que le puso menos. Bueno, entonces vamos a los. Otra vez yo le doy que me cree un ETL. Bailine listo. Y el de una me saca el asistente de genio al lado. Cierto, entonces yo le digo, bueno, yo puedo hacerla y código declarativa de pero lo voy a decir va crear con Ginico. Entonces yo le voy a decir, vea. Yo le voy a decir que vaya y me lea la información, me está mostrando hasta varios ahí como para yo ponerlo por código, pero yo no lo voy a hacer así, yo le voy a decir. Necesito. Ingestar la data de Aragón. Cierto. Esa data está acá. Space, ya les comparto la ruta. Bueno, me cuentan los que cambiaron épocas a menores a ver cómo les da, pongan 3 épocas, no pongan más.
+
+[LAURA MARCELA GAVIRIA YEPES] Profe, me salió un error desde la celda uno, ahí lo dejé en el chat.
+
+[Esp. Analítica de Datos Primer semestre G2] Pero se oyó empezar desde cero.
+
+[LAURA MARCELA GAVIRIA YEPES] That's not that.
+
+[Esp. Analítica de Datos Primer semestre G2] Dele control F 5 y voy a empezar desde cero porque si no le va a dar muéstreme
+
+[LAURA MARCELA GAVIRIA YEPES] See, bro.
+
+[Esp. Analítica de Datos Primer semestre G2] yo el error.
+
+[LAURA MARCELA GAVIRIA YEPES] Está en el chat.
+
+[Esp. Analítica de Datos Primer semestre G2] You might need to así, dele control F 5, eso no es un error, eso es una, eso es un una advertencia, pero usted ya lo está reseteando con DB. Mire que usted ahí le da un estilo que se llama DB utils punto library, restart Python.
+
+[LAURA MARCELA GAVIRIA YEPES] Entonces doy refrescar la página.
+
+[Esp. Analítica de Datos Primer semestre G2] No está bien, siga corriéndolo, eso no es un error, es un warning.
+
+[LAURA MARCELA GAVIRIA YEPES] Okay.
+
+[Esp. Analítica de Datos Primer semestre G2] Ahí no hay problema, pero cambia el número de épocas porque mire que se está pagando.
+
+[LAURA MARCELA GAVIRIA YEPES] La cambia 3.
+
+[Esp. Analítica de Datos Primer semestre G2] Sí, está todo muy bien, sí, me cuenta cómo le va.
+
+[MAURICIO  MONTOYA RAMIREZ] Pues en el caón donde está la época donde había que volver a darle correr y ahí va como en el dos de tres.
+
+[Esp. Analítica de Datos Primer semestre G2] List. Bueno, entonces aquí, bueno, yo iba por acá, le voy a decir que utilice este esta ingesta. ¿Que copia el Uber, si ya les con, pero usted va a cambiar esto?
+
+[MAURICIO  MONTOYA RAMIREZ] ¿Profesa la pregunta, nosotros tenemos que trabajar con esa ingesta que usted tiene ahí o con el ingenio decirle que necesitamos ingestar el trabajo que tenemos?
+
+[Esp. Analítica de Datos Primer semestre G2] Necesitan ingestar desde acá, desde esta URL A.
+
+[MAURICIO  MONTOYA RAMIREZ] O sea, esa ingesta que usted tiene ahí.
+
+[Esp. Analítica de Datos Primer semestre G2] no le pueden decir lo siguiente dónde tengo la base de datos de cargo se me perdió. Creo que abrió acá. Eso. Le pueden decir al genie lo que yo estoy haciendo y lo están viendo, van ahí o dónde van, no vuelvo y empiezo. Aquí se la va a pegar. Vamos a hacer todo automatizado, pues. Desde cero. Vamos acá, yo despreocúpese de lo otro. ¿Se preocupan del otro? Ahí está cuando vemos querido. Le decimos que crear un nuevo ETL. listo. ¿Y le digo acá a crear con Gini, listo, sí lo ven? Él me muestra una serie de notebooks porque él es lo que intuye es que voy a hacer los pipeline a partir de archivos punto PY. Mire que él me lo está mostrando, pero yo le voy a decir, no lo quiero hacer desde cero. Entonces les tiene que aparecer aquí este arroba set out dispyline to read data front, ojo. Si le quitan eso, él entiende como si fuera un código normal. Y usted lo que va a hacer es un declarativo de payline. Entonces usted le dice necesito. Y gestar. La información. Desde esta ruta. Y hacer la estructura medalio. De bronce. Silver y Gold. Y al final. Hacer un modelo de regresión. De estimación. De consumo de energía, él ahí va a utilizar un modelo de serie de tiempo, un modelo de multivariado. Yo no le estoy especificando cuál y me interesa saber el que va. O sea, yo aquí lo estoy viendo a propósito, pero si usted en su trabajo sabe que es un modelo de serie de tiempo, un modelo de regresión multivariado le dice eso listo. En este caso lo estoy haciendo a propósito. Todo bien. Y regístramelo. En ML slow. Te lo voy a compartir o que lo pegan después de la roba, muchachos, no antes de la roba.
+
+[DANIEL RENDON ACEVEDO] Profe que ya no es como un como un hash o K perdón, un Mackdown.
+
+[Esp. Analítica de Datos Primer semestre G2] I spit up. No, el cuando ustedes dan, venga, yo los comparto acá, traigo madre porque.
+
+[DANIEL RENDON ACEVEDO] Arroba está seleccionando de qué carpeta, por así decirlo.
+
+[Esp. Analítica de Datos Primer semestre G2] Sí. Sí, pero yo no voy a usar carpeta, sino que yo le estoy viendo al de una vez que haga un ahí me faltó algo, pero hasta el momento copien esta vida. A que péguenlo así como tal si les llegó al chat.
+
+[DANIEL RENDON ACEVEDO] T.
+
+[Esp. Analítica de Datos Primer semestre G2] Ok, ojo, bailain y le dicen acá que con el Jimny, mire que él ya está pensando, pero a mí me él ya lo está haciendo. Pero no me faltó decirle que me entregara los archivos pellé. A mí me interesa verlo por si en algún momento quiero cambiarlos. Ojo, si está en rojito, está pensando. Él ya encontró el archivo, eso le pasó a unos compañeros, le dijeron: Jenny, hágame esto y él se lo hizo, pero nunca le dijeron dame los archivos con lo que lo construiste. Pero después el infumar es tan inteligente que uno le dice: hey, mándame los archivos y él te los manda. Usted mira lo que me está diciendo el man ahí. Arquitectura, propuesta, ingesta de datos crudos, muy bien, Silver Lager, limpieza y transformaciones, Golden Lager, preparación para la ML Gold eficiencia, ML model modelo de regresión para estimar consumo de energía. Entonces, él me está diciendo que es un modelo de regresión multivariado porque me no es con el tiempo, sino que es con variables. Edificio, estado, año, construcción. ¿Te parece bien esta arquitectura? Le voy a decir que sí. Y regálame los archivos. Ll generados. Lo voy a copiar, a ustedes le dicen lo mismo cuando les diga que si está bien. Mire que ya me están regando los archivos acá. Enrique le puede decir que aceptar o no. Bueno, como ando otros con el código. Ay, yo cambio las épocas también, pues. Esto acá no es un error, Laura, esto es un warning, pero tú le diste la función que él pidió de beauties punto libra de restarpike.
+
+[LAURA MARCELA GAVIRIA YEPES] En ese caso, sigo corriendo las celdas.
+
+[Esp. Analítica de Datos Primer semestre G2] Sí, no hay problema.
+
+[@1] Profe, pero ese mismo error en el que me había salido a mí. Entonces igual yo no estoy corriendo
+
+[Esp. Analítica de Datos Primer semestre G2] Es.
+
+[@1] normal y pues ahí está corriendo todo el proceso.
+
+[Esp. Analítica de Datos Primer semestre G2] Sí, es que esto no es un error, es un warning.
+
+[@1] ya, correcto.
+
+[Esp. Analítica de Datos Primer semestre G2] ¿Hay un problema? Ahorita hay algo ahí sin mapa y preguntarle a él. Bueno, muchos, entonces mire que no está en una serie de transformaciones. ¿Y vamos a explorar esos archivos por dentro, un declarativo que tiene? Ahora está pensando San Rojito. Y es lo último, es un modelo de regresión. O sea, me tiró todo el código, o sea, seguramente tiro el pipeline. Y pongo cada cuando lo ejecuto y listo. Bueno, todos van acá. Están haciendo esta parte y está en paralelo, pues si quieren hacer esta sala es necesaria porque ya tenemos uno para haber registrado los que hicieron el de riesgo de crédito, pero todos van aquí en esta parte. Recuerde, lo pueden hacer a mano como lo han hecho unos compañeros o por acá, como les sea más fácil.
+
+[MARINELLA GONZALEZ MAYO] Sí, vamos.
+
+[Esp. Analítica de Datos Primer semestre G2] Vamos listo, vamos a mirar mientras tanto.
+
+[MAURICIO  MONTOYA RAMIREZ] Pero estas son las indicaciones para lo que usted nos vaya a solicitar que le entreguemos en archivo, cierto.
+
+[Esp. Analítica de Datos Primer semestre G2] Eso es lo que ustedes tienen que aprender y no es que solamente para el trabajo,
+
+[MAURICIO  MONTOYA RAMIREZ] No, pero sí hace parte del trabajo.
+
+[Esp. Analítica de Datos Primer semestre G2] para el para hacer parte. Este es el 50% de su trabajo, el LT, extraer, cargar y transformar. Los otros son observador agregado.
+
+[MAURICIO  MONTOYA RAMIREZ] Sí.
+
+[Esp. Analítica de Datos Primer semestre G2] Bueno, a ver, yo cojo a ver. Roberto, vas bien. Roberto, entendiendo.
+
+[ROBERTO JOSE GUERRERO MORENO] Sí, señor, sí, sí, señor.
+
+[Esp. Analítica de Datos Primer semestre G2] Isabel. Listo. Angie.
+
+[ANGIE TATIANA SALAZAR MUNETON] Perfect.
+
+[Esp. Analítica de Datos Primer semestre G2] Andy va bien.
+
+[ANGIE TATIANA SALAZAR MUNETON] Sí, le quería comentar.
+
+[Esp. Analítica de Datos Primer semestre G2] Ya arregló el computador, el repitente me conectó, hijo de madre.
+
+[ANGIE TATIANA SALAZAR MUNETON] Nada, estoy desde la tarde.
+
+[Esp. Analítica de Datos Primer semestre G2] Everybody in. Cualquiera de las 3:00 Evelyn van bien.
+
+[EVELIN DAHIANA FRANCO CAMPINO] Y profe.
+
+[EVELIN HERNANDEZ AVENDANO] Sí, señor.
+
+[Esp. Analítica de Datos Primer semestre G2] Peace. Y los otros, Grey, sí, bueno, esperemos que sí.
+
+[GISELLA PAOLA MARTINEZ BARRIOS] ¿Profe, hola, hablas con Gisela?
+
+[Esp. Analítica de Datos Primer semestre G2] Cuéntame, Gisela.
+
+[GISELLA PAOLA MARTINEZ BARRIOS] Profe, es que yo le ingresé, pues la instrucción tal como nos la compartió por el chat, cierto, después del arroba,
+
+[Esp. Analítica de Datos Primer semestre G2] En el chat, sí.
+
+[GISELLA PAOLA MARTINEZ BARRIOS] pero el acá me hace unas preguntas, le voy a compartir un momento la pantalla.
+
+[Esp. Analítica de Datos Primer semestre G2] Como las que me hizo a mí.
+
+[GISELLA PAOLA MARTINEZ BARRIOS] Y.
+
+[Esp. Analítica de Datos Primer semestre G2] ¿Muéstreme, Muéstreme qué pregunta le está bien?
+
+[GISELLA PAOLA MARTINEZ BARRIOS] ¿Cómo prefieres proceder con el acceso a los datos de Kaggle?
+
+[Esp. Analítica de Datos Primer semestre G2] Dígale que quiere el consumo total. Y. Datos de cargo, dile que con la URL que le indicaste y el acceso con la URL. Yo ahí le hice algunas trampitas para que él intentara alucinar, pero mire como razona de bien.
+
+[GISELLA PAOLA MARTINEZ BARRIOS] Entonces, yo aquí lo puedo ejecutar.
+
+[Esp. Analítica de Datos Primer semestre G2] Sí. Ya ahí te va a coger uno en usar la picago, dígale que lo siente él diga lo sien uno, dígale que lo sien uno. Dame la opción o y por favor y por opción o no. Y por favor, me da los archivos. ¿Qué generas? Para que te pueblo y los archivos. Normalmente los no se trabajan con notebook,
+
+[GISELLA PAOLA MARTINEZ BARRIOS] Bing List.
+
+[Esp. Analítica de Datos Primer semestre G2] sino con solamente un compañero ha hecho esa práctica, pero no importa los que lo hagan con notebook. No en la vida diaria, pues en el trabajo otra vez con archivos
+
+[GISELLA PAOLA MARTINEZ BARRIOS] Hey, good.
+
+[Esp. Analítica de Datos Primer semestre G2] PG. Los notebooks son para enseñar, para ilustrar, para documentar.
+
+[GISELLA PAOLA MARTINEZ BARRIOS] Ya comiste conchudo.
+
+[Esp. Analítica de Datos Primer semestre G2] Listo, ya está trabajando, va a volver a compartir, yo dice bueno.
+
+[GISELLA PAOLA MARTINEZ BARRIOS] Listo, listo, profe, muchas gracias.
+
+[Esp. Analítica de Datos Primer semestre G2] Esa parte, esta parte, usted ya la hizo a manopla con Héctor. Listo, bueno.
+
+[GISELLA PAOLA MARTINEZ BARRIOS] Sí, señor, qué fue lo que vimos, ajá.
+
+[Esp. Analítica de Datos Primer semestre G2] Sí, en la guería que ustedes ya lo habían hecho. Bueno, entonces este man todavía está pensando mientras va pensando, vamos avanzando aquí en la clase. Este man en qué, en qué, en qué época va me interesa ver. Yo pon las puse a 2 épocas. Si hay un error, pues para corregirlo, ahí sí, como hay poquitas.
+
+[MAURICIO  MONTOYA RAMIREZ] Entonces yo le dije al ingeniero que lo organizara y otra vez vuelve a empezar a. Él dice que un error en tiempo de ejecución.
+
+[Esp. Analítica de Datos Primer semestre G2] Cuántas épocas, 2 o 3?
+
+[MAURICIO  MONTOYA RAMIREZ] Thread.
+
+[Esp. Analítica de Datos Primer semestre G2] Es Estelita la idónea Estelita, pero Estelita no tiene problemas con el micrófono, entre el jueves lo vemos en clase. Pero por el momento porque ella le dio, ella ya tiene el y hay otro muchacho por ahí que le dio, espere quién fue el que ya tiene 2 desplegados.
+
+[MAURICIO  MONTOYA RAMIREZ] Profe, yo, pero nosotros lo tiramos, acuérdese que lo tiramos en clase con el
+
+[Esp. Analítica de Datos Primer semestre G2] No sé qué. Oh.
+
+[MAURICIO  MONTOYA RAMIREZ] genio, no con la información.
+
+[Esp. Analítica de Datos Primer semestre G2] Es que como usted, este yo lo hice a manopla,
+
+[MAURICIO  MONTOYA RAMIREZ] Y con el genio hubo que cuadrar también mucha cosa.
+
+[Esp. Analítica de Datos Primer semestre G2] o sea que el genio es más inteligente que yo y que todos juntos. Ahorita miramos de pronto a final de clase o el jueves, empezando, miramos el genie, el genio que hizo bueno que nosotros no hicimos. O sea, cómo por qué le está fallando registrando el modelo en el flow es el problemita que tiene. Bueno, entonces aquí todo está pensando mientras tanto vamos a avanzar por aquí. Esa es la actividad que estamos haciendo.
+
+[MAURICIO  MONTOYA RAMIREZ] No, pero el genio por todos lados tiró correcciones.
+
+[Esp. Analítica de Datos Primer semestre G2] De a Tarago, sí, no, es que yo no soy perfecto, soy humano. Bueno, entonces, ¿por qué país?
+
+[MAURICIO  MONTOYA RAMIREZ] No en el que el mismo genio tiró.
+
+[Esp. Analítica de Datos Primer semestre G2] Sí, te mostró errores.
+
+[MAURICIO  MONTOYA RAMIREZ] Claro, había que ir a corregir errores que el
+
+[Esp. Analítica de Datos Primer semestre G2] pero al final le, pero al final le dio y así a Celita le
+
+[MAURICIO  MONTOYA RAMIREZ] mismo no tiraba y no corría. Sí, claro.
+
+[Esp. Analítica de Datos Primer semestre G2] dio muy fácil, a ella le dio muy fácil. Listo, entonces bueno, porque y eso lo puede compartir para nosotros. ¿Por qué país para Big Data? Entonces, pues realmente es Spark. Sino que esta partecita de Pai es porque Spark maneja un lenguaje que llama escala y no es muy familiar. No es que sea difícil, no es muy familiar. Entonces uno instala la librería Pai Spark. Listo, un país parte, permite que usted escribe el lenguaje de Python y él lo traduzca a Spark, que es para ese lenguaje que distribuye y lleva el código a los datos haciéndolo de manera eficiente. Entonces uno utiliza payspark y también se puede utilizar R Spark a los que les guste R. Entonces hay varias librerías que hacen esa traducción. Es tanto, hay un len, hay una librería que se llama es escala. si es el nombre escala que me convierte archivos Python a R o Herrera Python eso alguna vez lo tuvimos que utilizar en la organización porque vamos a desplegar un modelo en click cuando eso a manopla en plena pandemia y y se están enfermando todos los los operarios de ituango y nosotros ya teníamos amenaza de ituango por por el tema de de la presa que casi nos daña y ya después no íbamos a trabajar porque no teníamos trabajadores. Entonces les pusieron una mano, una manilla a los operarios para saber proximidades con gente de COVID y le hacíamos una serie de preguntas a los empleados también. Y con esas preguntas detectamos si había probabilidad de contagio o no. Entonces aislamos las personas y mire que no paro y tuando. Siguió, le iban a parar, pero siguió. Sí, ese proyecto ha sido, ha resistido mucho. ¿Entonces, qué hacíamos? Ese client no recibía Paito, hay que volverlo R. Entonces, claro que en la librería Take escribíamos todo en Python, pues la librería solo la convertía a R y click lo recibía. Entonces, si algún día tiene problemita, pues utilizan esa librería. Ahora el problema acá es que es el lenguaje de escala es complejo, pues no es complejo, es raro. Entonces uno utiliza PySpa. Entonces, pues el tema de spar es que es mucho más rápido que un panda normal y el pensamiento de memoria puede ser 100 veces más rápido, cierto, por su algoritmo que se llama más reviews. Entonces el lunes muchas herramientas como sql streaming a machine learning es para hacer eso el creador es un rumano tiene 40 casi la mía 42 años y es de lo más billona pero hombre más ricos que hay en el en Rumanía es una persona pues muy inteligente cuando uno le Par es el que siempre lo nombra, se llama Mati Sakari. Me logré tomar una foto para con él. Bueno, entonces la razón principal es que el código se mueve a la data y se llama resilicencia. ¿Por qué? Porque se vuelve más óptimo el código, también es un tema de ahorita vemos una analogía con un restaurante, listo. Entonces aquí, pues sí falla, esto es falla la tolerancia y falla un núcleo de todos, él se mueve y busca cuál está bueno, cierto, y tiene alto poder computacional con Python, con SQL y cualquier herramienta. Entonces, esa estructura lo que hacen es definir qué hacer, cierto. En el código es como cuando usted va a un restaurante y lo primero que hace es usted no van del el meserio. Hey, tráeme una gaseosa y espera, pues hay unos restaurantes que sí, que son muy lentos y le traen la gaseosa a uno después que entra unas papitas y las papitas. Después el plato fuerte, el típico, el típico y eso duelve muy lento y después el desert, o sea, el postre. Si usted llega de uno y le da la lista al mesero y él va y da las instrucciones, ya señores, usted va a hacer las papitas, se tiene que mover tanto tiempo, usted va a hacer, va a hacer la gaseosa tanto tiempo y lo va llevando de a poquito, o sea, COVID o a los datos, se vuelve más óptimo. Hizo lo que hace el algoritmo más reviews. Entonces él hace transformaciones como se lee Filter John, que son las comunes, las hace de manera rápida, cierto, porque él primero define qué hacer, qué hacer. Y las que son de acción ya les demostrar contar las hace después. Entonces eso tiene un eso es para certificación, un concepto que se llama DA, que se llama Direct a Click Graph. Que realmente es el ejemplo que yo les di del mesero. Cierto, entonces Spark tiene muchas, muchas bondades, cierto, en el mercado y siempre la nube que sea o trabaje un premio. Yo creo que la última clase vemos algo de un premis o trabaje un premio o trabaje en la nube que sea donde a Tabriz se invoca Spark. y spar trabaja con las estructuras de datos que nosotros manejamos que es el Delta ley y el iceberg que dentro eso es puro parquet Data particionada cierto entonces tiene falla tolerancia es muy Dinámico hace una evaluación lenta eh reusa la información eh tiene temas avanzados en analítica en la memoria entonces Es parecer algo, es la herramienta óptima para Big Data. Listo, bueno, ahí dejemos, voy a ver cómo van los ejercicios. Mire aquí más o menos el ejemplo, cierto, o sea, usted primero hace la orden, el mesero la toma, cierto, la toma y después le va a decir a cada cocinero que hacer, no al contrario. Y por cada cada cada petición, uno a uno. Otro ejemplo es como usted llega a la casa y va a contar el mercado y usted solo lo va a contar. Contrario con la familia le dice a los hijos, ustedes cuenten las verduras. Yo cuento la carne, entonces se vuelve más óptimo el asunto. Bueno, vamos bien, sigue otra práctica, pero vamos bien hasta ahí o vamos a desplegar la PP antes de ir la práctica y dejamos esta práctica para la próxima. Ya vamos a terminar. Vamos con los códigos y dice, ese man no ha terminado. Más que no le hago esto. Ahora sí me está corriendo. ¿Ustedes ya les corrió esto? Ojo que hay que darle aceptar acá, qué pena. Yes, man. A mí solamente en la primera época no ha llegado a la segunda. Mimo está alucinando el error. Esto como que ya funcionó, en realidad yo estoy agregando hacia el notebook.
+
+[LAURA MARCELA GAVIRIA YEPES] Creo que yo ya terminé de correr todas las celdas, es que había como varios errores y estaba pues diagnosticándolos y resolviendo.
+
+[Esp. Analítica de Datos Primer semestre G2] Bueno, enseguida, enseguida nos muestro. ¿Quién habló, Laura?
+
+[LAURA MARCELA GAVIRIA YEPES] Sí.
+
+[Esp. Analítica de Datos Primer semestre G2] ¿Quién hablo? Yo no he tenido asesoría con usted y eso que no.
+
+[LAURA MARCELA GAVIRIA YEPES] Mañana a las 6:00, Laura y Carolina.
+
+[Esp. Analítica de Datos Primer semestre G2] Con Carolina. Con el pedido es Carolina.
+
+[CAROLINA GARCIA PALACIO] García Palacio.
+
+[LAURA MARCELA GAVIRIA YEPES] Tesia.
+
+[Esp. Analítica de Datos Primer semestre G2] Okey, listo. When Angie no tener, 'cause we know.
+
+[CRISTIAN CAMILO SALDARRIAGA VELASQUEZ] Y también.
+
+[Esp. Analítica de Datos Primer semestre G2] Con solo con una Evelyn de las 3:00. ¿Te recuerda? Esto está muy, ¿quién ya le corrió este payline? Ya que ya no está. Ninguno. Muchacho, ninguno le ha corrido esto, sigue el rojito.
+
+[MAURICIO  MONTOYA RAMIREZ] Profe, la verdad, yo no lo estoy haciendo, estoy tratando de que corra ese otro,
+
+[Esp. Analítica de Datos Primer semestre G2] Es de otro.
+
+[MAURICIO  MONTOYA RAMIREZ] yo ya con el trabajo ya te dice eso.
+
+[ANDRES FELIPE SUAREZ RAMIREZ] Sí, yo también, ese tampoco, sí, el otro.
+
+[Esp. Analítica de Datos Primer semestre G2] Oh, que se les puede hervir. Listo, bueno, entonces vamos a ver el otro mientras de ahí me ejecuta.
+
+[GISELLA PAOLA MARTINEZ BARRIOS] Profe, qué pena.
+
+[Esp. Analítica de Datos Primer semestre G2] Laura. Hola, dime.
+
+[GISELLA PAOLA MARTINEZ BARRIOS] Aquí le diste.
+
+[Esp. Analítica de Datos Primer semestre G2] Él lo va haciendo, sí, por ejemplo, yo creo que esto ya está, o sea, él aquí él mismo lo hace ya a mí ya me funcionó, pues según veo.
+
+[DANIEL RENDON ACEVEDO] Yeah.
+
+[Esp. Analítica de Datos Primer semestre G2] Esperemos a ver.
+
+[GISELLA PAOLA MARTINEZ BARRIOS] Es que a mí me generó, pues como las carpetas, cierto, la bronce, la silver y la golf.
+
+[Esp. Analítica de Datos Primer semestre G2] ¿Sí, pero si todas están rojito acá, con quién hablo?
+
+[GISELLA PAOLA MARTINEZ BARRIOS] Con Gisela, profe.
+
+[Esp. Analítica de Datos Primer semestre G2] bueno.
+
+[GISELLA PAOLA MARTINEZ BARRIOS] No, a mí ya me terminó.
+
+[Esp. Analítica de Datos Primer semestre G2] Ven, compártame, compárteme un momentico.
+
+[GISELLA PAOLA MARTINEZ BARRIOS] Claro que sí, ahí ya les digo.
+
+[CRISTIAN CAMILO SALDARRIAGA VELASQUEZ] Hola, me escucha.
+
+[Esp. Analítica de Datos Primer semestre G2] ¿Con quién hablo?
+
+[CRISTIAN CAMILO SALDARRIAGA VELASQUEZ] Con Christian.
+
+[Esp. Analítica de Datos Primer semestre G2] José Cristian.
+
+[CRISTIAN CAMILO SALDARRIAGA VELASQUEZ] No era para recordarle también que le había solicitado la asesoría para mañana miércoles y de pronto tiene el espacio.
+
+[MAURICIO  MONTOYA RAMIREZ] Yeah.
+
+[Esp. Analítica de Datos Primer semestre G2] Sí, Cristian, yo ya te te registré, te vas a tratar de responder. Es que hoy me describieron mucho, pero hágale que le atacamos lo mismo con.
+
+[CRISTIAN CAMILO SALDARRIAGA VELASQUEZ] Okay, listo.
+
+[MAURICIO  MONTOYA RAMIREZ] Mañana es martes, mañana es martes.
+
+[Esp. Analítica de Datos Primer semestre G2] Este muchacho. ¿Era martes, cómo llamaste el que me conectó, que estaba en clase privada con él? ¿También me la su cómo es cómo se llama con Henry?
+
+[CRISTIAN CAMILO SALDARRIAGA VELASQUEZ] Con Henry, Henry.
+
+[Esp. Analítica de Datos Primer semestre G2] También, bueno. Listo, bueno, dale control más compañerita.
+
+[MAURICIO  MONTOYA RAMIREZ] No, profe, sigue esto grave, sigue sacando error y hay que volver a
+
+[Esp. Analítica de Datos Primer semestre G2] Eso sí, ya le funcione.
+
+[MAURICIO  MONTOYA RAMIREZ] decirle que lo vuelva a iniciar y se demora.
+
+[Esp. Analítica de Datos Primer semestre G2] ¿Quién habló ahí?
+
+[MAURICIO  MONTOYA RAMIREZ] How is you? How is you?
+
+[Esp. Analítica de Datos Primer semestre G2] Listo, Mauro, relajado, vamos a ver el de el de Gisela. Vamos a primero a revisar este paila y se la cierra el Gini.
+
+[GISELLA PAOLA MARTINEZ BARRIOS] Y acá.
+
+[Esp. Analítica de Datos Primer semestre G2] Okey, muy bien, entonces si tiene ya un pipeline creado, cámbiale el nombre a ese pipeline. Al lado izquierdo, izquierdo, no dice New pipeline 2026.
+
+[GISELLA PAOLA MARTINEZ BARRIOS] Okay.
+
+[Esp. Analítica de Datos Primer semestre G2] Póngale un nombre customizado para usted. No la deja.
+
+[GISELLA PAOLA MARTINEZ BARRIOS] No, profe.
+
+[Esp. Analítica de Datos Primer semestre G2] Dígale, a bueno, dígale, rompay line.
+
+[GISELLA PAOLA MARTINEZ BARRIOS] O acá.
+
+[Esp. Analítica de Datos Primer semestre G2] Ahí sí le cambia.
+
+[GISELLA PAOLA MARTINEZ BARRIOS] Sí, en esta sí, profe.
+
+[Esp. Analítica de Datos Primer semestre G2] Me ponga el nombre que quiera.
+
+[GISELLA PAOLA MARTINEZ BARRIOS] Excelente. Sí.
+
+[Esp. Analítica de Datos Primer semestre G2] Okay entonces mire que usted dice es lo que está haciendo es puro puro declarativo de pipeline que lo que hace es que si usted por ejemplo ese código vea frompa y Spark importe pipelines como dp Ese es el alias y de Spy es para sq el
+
+[GISELLA PAOLA MARTINEZ BARRIOS] Mhm.
+
+[Esp. Analítica de Datos Primer semestre G2] import función acf entonces lo que está haciendo es que está cogiendo una Data cruda y dice comentario raw Energy eficiencia Fronca Gold dataset sigue bajando y gesta 2 datos crudos. Es que son puros comentarios.
+
+[GISELLA PAOLA MARTINEZ BARRIOS] Mhm.
+
+[Esp. Analítica de Datos Primer semestre G2] Los descarga de **** y los guarda. Sigue bajando. Eso en función es arroba declarative pipeline give y hace una tabla que se llama arroba declarative pipeline punto table. La convierte en bronce, sigue bajando compañerita.
+
+[GISELLA PAOLA MARTINEZ BARRIOS] Profe, ya me deja.
+
+[Esp. Analítica de Datos Primer semestre G2] ¿Y estás click? Energía sigue abando un poquito más, esa es la capa de bronce, creo. Luego que viene la tabla. Baja más. Ahí termina, cierto, listo, sí, porque esa es la parte de bronce,
+
+[GISELLA PAOLA MARTINEZ BARRIOS] Nada más me deja bajar hasta acá, sí.
+
+[Esp. Analítica de Datos Primer semestre G2] pero si abre, abre la, por ejemplo, la de Silver, que está más abajo, donde dice Silver Energía punto Py, ahí declara la tabla de. Declara esa tabla, listo. Sí, mira que él dice clean energía, la está limpiando.
+
+[GISELLA PAOLA MARTINEZ BARRIOS] Sí.
+
+[Esp. Analítica de Datos Primer semestre G2] Luego valida consumos que los consumos totales sean mayores a cero. Y mira cuáles van, esos valores son no nulos. Ustedes hicieron eso a punta de código. Si les parece más falso y a punta de código, pues por ejemplo, para mí es más fácil a punta de Python o Jupiter, porque ese arroba declarative es muy comentado. Entonces uno lo entiende casi. Y la cuestión es que si usted no le dice que le muestre ni siquiera el lenguaje, lo hace, le hace el payline, pero eso ni siquiera sabe qué está haciendo. Mire que ahí por lo menos le está diciendo limpia y estandariza los datos de energía, elimina duplicados, elimina registros con valores nulos críticos, calcula consumo total y también si le das en gol te muestra que hizo en gol. Por lo menos te comento qué está haciendo. Bueno, hay un cluster por tipo de edificio. Él está manejando bien, o sea, ahí como que le ponen hace una clusterización, es un modelo como por tipo de edificio, pues por tipo de video le pone una marca. Agrega datos de consumo analíticos por tipo de edificio. Esa tabla será usada para entrenar el modelo de regresión. Bueno. muy bien que el modelo de regresión a ti no te salió pero no es necesario o sea ahí saca la Data necesaria para hacer un modelo de regresión Dale correr payline Run payline el azulito que hay arriba sabes qué hace coge todo Dale que rompa y Line El que tú tienes y los junta y los ejecuta. Yo ya hice eso en un job, sí, porque usted lo hizo a mano,
+
+[GISELLA PAOLA MARTINEZ BARRIOS] Mhm.
+
+[Esp. Analítica de Datos Primer semestre G2] pero está bien. Listo, vuélvete al lado izquierdo, donde dice yo y pay lines.
+
+[GISELLA PAOLA MARTINEZ BARRIOS] Y listo, profe.
+
+[Esp. Analítica de Datos Primer semestre G2] Sí, ya tiene uno que se llama Energy, ahí le está corriendo, sí ve.
+
+[GISELLA PAOLA MARTINEZ BARRIOS] Sí, señor.
+
+[Esp. Analítica de Datos Primer semestre G2] ¿Ahora usted puede decir cada cuánto lo voy, usted usted qué puede hacer? Usted puede tener este que ya lo puede automatizar y ponerlo cada cuánto esa ingesta automática, pero también le puede integrar otros scripts de o hacer. Ah, después de que me salga la data en oro, yo quiero hacer un modelo de regresión múltiple. Entonces si vas a jobs como lo que hizo el compañero ahorita fui yo dale en jobs el lado derecho derecho. Eso. Usted puede poner tareas another adicional another tas time azul. Usted puede poner no solamente un notebook, baja, baja más. Usted puede ponerle un payline, este es el payline, es el más abajito. Y ya busca el que tú tienes que llamar energy.
+
+[GISELLA PAOLA MARTINEZ BARRIOS] Mhm.
+
+[Esp. Analítica de Datos Primer semestre G2] Baja más para que le pongas el la rutica. Y ya bailó busca donde esté muy bien. Ilegal SAI tas y después de eso le puede agregar un note boom SQL listo. Es eso es lo que hay varias formas de hacer la automatización en ingesta de
+
+[GISELLA PAOLA MARTINEZ BARRIOS] Ir.
+
+[Esp. Analítica de Datos Primer semestre G2] data. Gracias, Gisela.
+
+[GISELLA PAOLA MARTINEZ BARRIOS] Listo, profe, muchas gracias.
+
+[Esp. Analítica de Datos Primer semestre G2] Bueno, listo, ahora vamos con esto está quedando grabado. Nosotros no grabamos esta clase, sí, muy bien, qué pena. Gracias, muchachos.
+
+[GISELLA PAOLA MARTINEZ BARRIOS] Y profe.
+
+[Esp. Analítica de Datos Primer semestre G2] Ahora Laura. O sea, leí el código. Laura Marce es Laura Marcela, ¿cómo se llama?
+
+[LAURA MARCELA GAVIRIA YEPES] Sí, terminé de correr las 14:00 celdas.
+
+[Esp. Analítica de Datos Primer semestre G2] Laura. Comparta el escritorio un momentico. Entonces usted nos va a hacer el favor y compartirnos ese código, comparta el escritorio. Good hole. Ahora, por ejemplo, sí, pues yo sé que ustedes hicieron.
+
+[GISELLA PAOLA MARTINEZ BARRIOS] What?
+
+[Esp. Analítica de Datos Primer semestre G2] A Lu, así es que a Luces que a usted le dio bien, es que. Eso depende como usted hizo el pronto. Bueno. Déjame ver que te iba al final en el la curación. Ese training dio muy malo, pero bueno, le digo porque hizo muy poquitas épocas. Mire que apenas el error bajó hasta punto 10, el del de la validación y el otro bajó está muy bajito. Si le pones más épocas, te puede dar más. Pero la clasificación la hizo relativamente bien. Mire que yo tenía solamente se había equivocado en 3 porque le hice 10 épocas, mientras que suba un poquito. Ella le dio, se equivocó en 5, suba un poquito. Laura donde está la matriz de confusión más abajito confusión Matrix Un poquito más abajito. Mire que usted se equivocó en 5, yo apenas me equivoqué en 3. ¿Listo, ve entonces usted cómo nos comparte eso? Enseguida le muestro, venga acá a al lado izquierdo donde dice models.
+
+[LAURA MARCELA GAVIRIA YEPES] En qué parte, pero.
+
+[Esp. Analítica de Datos Primer semestre G2] Donde acá al lado izquierdo dice SQL al lado izquierdo izquierdo del todo. Baje más de SQL, baje, baje más. Más de data engineering, más abajo todavía. Donde dice models es casi el último. Electric ahí. Si no hizo porque no tiene modelos registrados. Se dijo que tenía varios no. Ay, delen serving. El que se mueve abajo. Serving. El Ecli A. Si no tiene ni serving en point. Y tienen modelos. Tan charro, eso no es yo el de Cree Ris, vuelvo a darle a moverse. Es que por defecto le viene al parecer. ¿Se viene algún filtro ahí? Ustedes están siguiendo a la hora. Muchachos.
+
+[LEDY LORENA LOZANO PALACIO] Sí, profe, lo tenemos listo, yo creo.
+
+[@1] Sí, probé.
+
+[MAURICIO  MONTOYA RAMIREZ] Sí, profe, yo sí tengo el crédito, ahí sí, claro.
+
+[Esp. Analítica de Datos Primer semestre G2] ¿Y porque ustedes ven modelos registrados? ¿Usted me vení, qué pasó Laura? Dele control F 5, usted que le está dando a eso ahí control F 5 y a usted le corrió el M el flow, usted le debe registrar por lo menos 1 modelo. A. Usted, por ejemplo, no va a poder desplegar la app. Listo, vamos con. Pero no importa, no te es por eso, que para eso vamos a tener una asesoría. ¿A quién ve modelos registrados ahí que haya hecho?
+
+[LAURA MARCELA GAVIRIA YEPES] No pero en este caso.
+
+[Esp. Analítica de Datos Primer semestre G2] No sé por qué no está apareciendo, porque usted me dijo que tenía el de listo.
+
+[LAURA MARCELA GAVIRIA YEPES] Pues de hecho, sí, los.
+
+[Esp. Analítica de Datos Primer semestre G2] Pero de eso no pa de tranquila que eso no pasa nada porque yo cuando estemos
+
+[LAURA MARCELA GAVIRIA YEPES] Los.
+
+[Esp. Analítica de Datos Primer semestre G2] haciendo el trabajo pues haciendo el trabajo y usted usted va a dar cuenta que pasó. ¿Venga, quién tiene modelos registrados? Pues yo tengo, pero lo interesante es que usted. Bueno, ¿quién fue el primero?
+
+[MAURICIO  MONTOYA RAMIREZ] Move a jump.
+
+[LEDY LORENA LOZANO PALACIO] Yo tengo también.
+
+[MAURICIO  MONTOYA RAMIREZ] Auto.
+
+[Esp. Analítica de Datos Primer semestre G2] Listo, Mauro, comparta.
+
+[MAURICIO  MONTOYA RAMIREZ] Pero ya voy.
+
+[Esp. Analítica de Datos Primer semestre G2] Mira lo que tiene que aparecer usted Laura.
+
+[MAURICIO  MONTOYA RAMIREZ] Me dice cuando están viendo.
+
+[Esp. Analítica de Datos Primer semestre G2] Ahí.
+
+[LAURA MARCELA GAVIRIA YEPES] Yeah.
+
+[MAURICIO  MONTOYA RAMIREZ] Listen, take that. Two.
+
+[Esp. Analítica de Datos Primer semestre G2] Moderno y tiene el otro, o sea, el correo el de clasificación, cierto,
+
+[MAURICIO  MONTOYA RAMIREZ] Sí.
+
+[Esp. Analítica de Datos Primer semestre G2] ahí están los 2.
+
+[MAURICIO  MONTOYA RAMIREZ] También y ya los tenemos servidos también, vea.
+
+[Esp. Analítica de Datos Primer semestre G2] Yes. Bueno, muéstrele a ellos como los sirvió para que ellos sepan.
+
+[MAURICIO  MONTOYA RAMIREZ] ¿Entonces, cómo se sirvió desde aquí de models? Sí. Nos paramos sobre el. Y lo que le dijimos, profe era.
+
+[Esp. Analítica de Datos Primer semestre G2] Servir this model, pero no le vas a dar porque eso se demora
+
+[MAURICIO  MONTOYA RAMIREZ] Service this model.
+
+[Esp. Analítica de Datos Primer semestre G2] un rato, listo.
+
+[MAURICIO  MONTOYA RAMIREZ] Yo no lo tengo que servir ya porque ya lo tengo.
+
+[Esp. Analítica de Datos Primer semestre G2] No, ya muy bien, ahora vamos a.
+
+[MAURICIO  MONTOYA RAMIREZ] You'll say moda.
+
+[Esp. Analítica de Datos Primer semestre G2] Sí, devuelves a mano izquierda y vamos a compio.
+
+[MAURICIO  MONTOYA RAMIREZ] Pump you.
+
+[Esp. Analítica de Datos Primer semestre G2] Sí.
+
+[MAURICIO  MONTOYA RAMIREZ] Listo, aquí están.
+
+[Esp. Analítica de Datos Primer semestre G2] Muy bien, mire aquí arriba. Usted solamente tiene un computador que es un SQL o en house. Ustedes en sus organizaciones van a tener
+
+[MAURICIO  MONTOYA RAMIREZ] T.
+
+[Esp. Analítica de Datos Primer semestre G2] computadores con GPU con CPU, computadores propios para hacer modelos de machine learning, computadores para el trabajo. ¿Por qué? Porque es que un computador de trabajo es más barato que un.
+
+[MAURICIO  MONTOYA RAMIREZ] ¿Sabes por qué es el free?
+
+[Esp. Analítica de Datos Primer semestre G2] Sí, este es el free es un computador, un job de trabajo, pues es un computador que solamente recibe unos parámetros para correr un modelo, mientras que un computador para hacer un modelo es un modelo, es un computador más especializado, con más core, más costoso. Entonces ustedes no vayan a correr un trabajo con un computador para hacer un modelo, no sale costoso por la organización. En este caso, este es Free Edition nos dan este es tanto. Vieron que para el tema de los PyLine Kis o Gisela le ofrecen GPUs, o sea, están muy votados. Ahora vamos, usted dice SQL Warehouse al lado. Ese tema de late base algo nuevo que
+
+[MAURICIO  MONTOYA RAMIREZ] Sí, sí.
+
+[Esp. Analítica de Datos Primer semestre G2] ellos sacaron, que es para leer data en streaming. Ni lo he probado, pero yo sé que es para eso. El Lake Base. Y él le data que entra en streaming o de sensores. Sí, por ejemplo,
+
+[MAURICIO  MONTOYA RAMIREZ] Yeah, doctor, was the project.
+
+[Esp. Analítica de Datos Primer semestre G2] de sensores o en bancos, transacciones. Vamos a darle a pps. Mira cómo es de fácil le hacen una pp a pps. List.
+
+[MAURICIO  MONTOYA RAMIREZ] Please stop.
+
+[Esp. Analítica de Datos Primer semestre G2] Cérrate el Gini para yo tener más visualización, venga, venga primero X, vamos otra vez todos ahí compu.
+
+[MAURICIO  MONTOYA RAMIREZ] Listo, compu. A Pepes.
+
+[Esp. Analítica de Datos Primer semestre G2] A PPS, muy bien. Bueno, Databris evolucionó, Databris a Pepes, eso no existía. Porque para desplegar una Pepe antes era un gallo, ya que tiene un mundo de código, ya no dele donde dice te avisa Pepe.
+
+[MAURICIO  MONTOYA RAMIREZ] Data Risa Pepe.
+
+[Esp. Analítica de Datos Primer semestre G2] Yo esa ni la conoce, que le no le dice crear una nueva PP, no hay para crear a PP.
+
+[MAURICIO  MONTOYA RAMIREZ] No está bloqueado.
+
+[Esp. Analítica de Datos Primer semestre G2] Voy a dominar el mío.
+
+[MAURICIO  MONTOYA RAMIREZ] Sobre él no deja.
+
+[Esp. Analítica de Datos Primer semestre G2] Pero mira el guacano.
+
+[EVELIN HERNANDEZ AVENDANO] Creo que salió más abajito.
+
+[MAURICIO  MONTOYA RAMIREZ] I love you done.
+
+[Esp. Analítica de Datos Primer semestre G2] ¿Sale más de abajo, cierto?
+
+[EVELIN HERNANDEZ AVENDANO] And they dice, go to your data risa, PP, see you.
+
+[LEDY LORENA LOZANO PALACIO] Sí, más abajo.
+
+[Esp. Analítica de Datos Primer semestre G2] Dale control menos para que se vea menos para que no como estás compartiendo de pronto no lo ves. Control menos. O reducir la pantalla.
+
+[MAURICIO  MONTOYA RAMIREZ] Call Mister, you meeting.
+
+[Esp. Analítica de Datos Primer semestre G2] El Dios mío.
+
+[MAURICIO  MONTOYA RAMIREZ] Listo. Go to the app.
+
+[Esp. Analítica de Datos Primer semestre G2] Is. Sí, dale ahí.
+
+[MAURICIO  MONTOYA RAMIREZ] Listo.
+
+[Esp. Analítica de Datos Primer semestre G2] ¿Entonces aquí dice crear una app antes para hacer una PP era un gallo, cierto? Pero ahora es más sencillo y ahí te muestro todo el código como hacerlo desde
+
+[ANDRES FELIPE SUAREZ RAMIREZ] Qué pena, qué pena Juan Felipe, sino que cuando estaba el compañero
+
+[Esp. Analítica de Datos Primer semestre G2] consola, con quién hablo.
+
+[ANDRES FELIPE SUAREZ RAMIREZ] explicando eso, se pues se me congeló la pantalla. De pronto lo puedo repetir porfa.
+
+[Esp. Analítica de Datos Primer semestre G2] Otra vez dale de un principio compa.
+
+[MAURICIO  MONTOYA RAMIREZ] Alisto, venga, volvamos.
+
+[Esp. Analítica de Datos Primer semestre G2] Devuelvas, el lo que quiere. Entra a una pestaña nueva, es.
+
+[MAURICIO  MONTOYA RAMIREZ] Entonces nos vamos por acá por compu.
+
+[ANDRES FELIPE SUAREZ RAMIREZ] That's confused.
+
+[MAURICIO  MONTOYA RAMIREZ] Listo, aquí le damos hasta lento.
+
+[Esp. Analítica de Datos Primer semestre G2] No está bien, arriba dice a PPS, mira que en compu más a más arribita,
+
+[MAURICIO  MONTOYA RAMIREZ] bueno.
+
+[Esp. Analítica de Datos Primer semestre G2] está como en gris, más arribita. Lado izquierdo, eso muy bien.
+
+[MAURICIO  MONTOYA RAMIREZ] Y le damos acá.
+
+[Esp. Analítica de Datos Primer semestre G2] Muy bien.
+
+[ANDRES FELIPE SUAREZ RAMIREZ] Listo, listo, ahí voy, sí.
+
+[MAURICIO  MONTOYA RAMIREZ] Please, please.
+
+[Esp. Analítica de Datos Primer semestre G2] Bueno, mire que el al lado derecho muestra una pantalla negrita.
+
+[MAURICIO  MONTOYA RAMIREZ] Estock.
+
+[Esp. Analítica de Datos Primer semestre G2] Si usted lo quiere hacer de consola, muy bien, pero ellos ya tienen todo listo, o sea, desde por ejemplo de Visual Studio Code, listo.
+
+[MAURICIO  MONTOYA RAMIREZ] sí.
+
+[Esp. Analítica de Datos Primer semestre G2] Ahora dele acá donde dice crear nueva app.
+
+[MAURICIO  MONTOYA RAMIREZ] Vamos en más.
+
+[Esp. Analítica de Datos Primer semestre G2] Eso entonces vean todos los que él le ofrece. Usted puede crear una app customizada a punta de código. Cierto, también puede hacer una con la Hello World clásica. La puede hacer, sigue bajando.
+
+[MAURICIO  MONTOYA RAMIREZ] no muestras y nos dedos.
+
+[Esp. Analítica de Datos Primer semestre G2] Listo, dale a en crear customizada a PP.
+
+[MAURICIO  MONTOYA RAMIREZ] No, bueno, muestra todos estos.
+
+[Esp. Analítica de Datos Primer semestre G2] No, pero sí, entonces mire, él la puede hacer uno con Dash, que es una librería propia de Python, es sigue bajando las que muestra más ahí. Voy a hacerla con Hello World, esa de qué librería es, esa es gradio, que también es muy útil para hacer para hacer front front final.
+
+[MAURICIO  MONTOYA RAMIREZ] Value.
+
+[Esp. Analítica de Datos Primer semestre G2] Está con los GS, que es la más robusta. Seguí bajando, debe haber China y también la propia Guerra, que es muy bonita, seguí bajando.
+
+[MAURICIO  MONTOYA RAMIREZ] Sí.
+
+[Esp. Analítica de Datos Primer semestre G2] ¿Y está con streaming, cierto? Sí, esas son las más las que ellos utilizan
+
+[MAURICIO  MONTOYA RAMIREZ] Yeah.
+
+[Esp. Analítica de Datos Primer semestre G2] ahora. Mira que ellos antes solamente sacaban a pps, pero os puede sacar agentes en front final como una app. Mira que ya ha salido la funcionalidad al lado de Hello World.
+
+[MAURICIO  MONTOYA RAMIREZ] Star K.
+
+[Esp. Analítica de Datos Primer semestre G2] Sí, está gentes, dale ahí que aparece, es un nuevo. L. K. Customizar un agente con OpenA a construir y desarrollar un agente con la
+
+[MAURICIO  MONTOYA RAMIREZ] Dad the late clean.
+
+[Esp. Analítica de Datos Primer semestre G2] graph, que es la librería propia de agentes. Bueno, va a tocar estudiar más que eso no lo sabía. Customizar agentes de avanzado, o sea, usted puede exponer agentes para que se interactúe con ellos.
+
+[MAURICIO  MONTOYA RAMIREZ] O sea, pa qué respuestas en una app.
+
+[Esp. Analítica de Datos Primer semestre G2] Is. Muy bien. Muy bien, pero eso es nuevo. Pero yo le estoy explicando porque es un nuevo, eso lo acaban, eso fue la semana pasada. Tiene MSP Server, mira que el MSP es para hablar entre agentes. Soy dinario, la gente los quiere poner a hablar. Listo, vamos a dashboard. También despliega dashboard como a PPS. El tercero se hizo un dashboard y lo quiere desplegar también.
+
+[MAURICIO  MONTOYA RAMIREZ] En ese QL.
+
+[Esp. Analítica de Datos Primer semestre G2] Previamente tuvo que haber construido el dasboa. Cierto. ¿Y ese de ir a beis? No sé qué será, vamos a mirar qué hace, hijo de madre,
+
+[MAURICIO  MONTOYA RAMIREZ] Lo que que eso fue lo que hicimos nosotros,
+
+[Esp. Analítica de Datos Primer semestre G2] dale a de click.
+
+[MAURICIO  MONTOYA RAMIREZ] que dar el dashboard dentro del mismo alta.
+
+[Esp. Analítica de Datos Primer semestre G2] Ustedes lo pueden desplegar por ahí, dale database.
+
+[MAURICIO  MONTOYA RAMIREZ] Okay.
+
+[Esp. Analítica de Datos Primer semestre G2] Muy bien, eso es para atada que entra en tiempo real para ver cómo está entrando para centros de control y eso. Eso es nuevo, eso no existía. Dale el primero que dice crear Kuston app a ver que me muestra.
+
+[MAURICIO  MONTOYA RAMIREZ] Play stories.
+
+[Esp. Analítica de Datos Primer semestre G2] El hombre que eras. Así está el nombre, póngale mi primera como quiera. Con eso terminamos la clase de hoy listo. Hay un ejemplo de anomalías en sangre que lo pueden hacer ustedes, no está difícil. Ojo que el es muy cosquilloso con los nombres, tiene que estar pegado.
+
+[MAURICIO  MONTOYA RAMIREZ] Okay.
+
+[Esp. Analítica de Datos Primer semestre G2] Y todo en minúscula.
+
+[ANDRES FELIPE SUAREZ RAMIREZ] Real.
+
+[Esp. Analítica de Datos Primer semestre G2] Yo voy así hace por aquí o por el otro lado, no le pongas números.
+
+[MAURICIO  MONTOYA RAMIREZ] Sí lo sí lo admitió.
+
+[Esp. Analítica de Datos Primer semestre G2] Ya metió el número, bueno, dale pues.
+
+[MAURICIO  MONTOYA RAMIREZ] Hey.
+
+[Esp. Analítica de Datos Primer semestre G2] No tiene que ponerle descripción, póngale un serverless que solamente tiene uno, yo creo.
+
+[MAURICIO  MONTOYA RAMIREZ] No explicar nada.
+
+[Esp. Analítica de Datos Primer semestre G2] No tienes, bueno, derégale crear a Pepe a ver qué pasa. Así le prendí un computador, pero ahora es otra pestañita. Vamos a hacerla como es el deber ser. Yo solamente quería experimentar ahí. Listo, vuelva a mostrar los muchachos cómo llegó hasta allá.
+
+[MAURICIO  MONTOYA RAMIREZ] List of prof. Also a casa. bueno por el tema de compute
+
+[Esp. Analítica de Datos Primer semestre G2] Compu.
+
+[MAURICIO  MONTOYA RAMIREZ] Sí, nos fuimos acá a PPS.
+
+[Esp. Analítica de Datos Primer semestre G2] A Pepes. Yeah. Go to the tab.
+
+[MAURICIO  MONTOYA RAMIREZ] No, we go to Road Two.
+
+[Esp. Analítica de Datos Primer semestre G2] Y crear una nueva PP.
+
+[MAURICIO  MONTOYA RAMIREZ] Listo, mire que aquí ya está creada.
+
+[Esp. Analítica de Datos Primer semestre G2] Sí, esa es la quedó creada, no está creando, está creando,
+
+[MAURICIO  MONTOYA RAMIREZ] Eso está corriendo el mar.
+
+[Esp. Analítica de Datos Primer semestre G2] está creando, está creando. Vamos a crear app,
+
+[MAURICIO  MONTOYA RAMIREZ] T.
+
+[Esp. Analítica de Datos Primer semestre G2] pero que vamos a crear una app que se consuma su servin en Point, no el que él quiera, dele crear a PP el azulito arriba.
+
+[MAURICIO  MONTOYA RAMIREZ] Hola, le da, le decime decime, le daba o k.
+
+[Esp. Analítica de Datos Primer semestre G2] El azulito es y vamos a decir lo que le haga con Dash, no,
+
+[MAURICIO  MONTOYA RAMIREZ] Vamos a play.
+
+[Esp. Analítica de Datos Primer semestre G2] esa no vamos a la vamos a hacer la normal, dele con Dash.
+
+[MAURICIO  MONTOYA RAMIREZ] Does.
+
+[Esp. Analítica de Datos Primer semestre G2] Sí, la primera.
+
+[MAURICIO  MONTOYA RAMIREZ] Base so base.
+
+[Esp. Analítica de Datos Primer semestre G2] De ahí. Ahí sí le muestra un computador, dígale siguiente.
+
+[MAURICIO  MONTOYA RAMIREZ] Kate.
+
+[Esp. Analítica de Datos Primer semestre G2] Y mire que le está poniendo un. Listo, búsquelo el suyo. Porque no le está encontrando el Servine por.
+
+[MAURICIO  MONTOYA RAMIREZ] No está mostrando.
+
+[Esp. Analítica de Datos Primer semestre G2] Seguí bajando, déjame ver un poquito, no hay nada más abajo. Los que están en el computador en casa no ven nada más abajo.
+
+[EVELIN HERNANDEZ AVENDANO] No, señor, no despliega nada.
+
+[Esp. Analítica de Datos Primer semestre G2] Y dígale crear a Pepe a ver si le pone un serving en point.
+
+[ANDRES FELIPE SUAREZ RAMIREZ] No, I'm not.
+
+[MAURICIO  MONTOYA RAMIREZ] No.
+
+[Esp. Analítica de Datos Primer semestre G2] Él tiene que mostrar por algún lado para agregarle un serving en point porque si no le va a hacer un dashboard sencillito. Yo miro algo acá mientras. Ahora volvé a hacer el mismo paso Mauro, pero hacerlo con dashboard y agregas tu dashboard que ya hiciste.
+
+[MAURICIO  MONTOYA RAMIREZ] Listo, spider proof.
+
+[Esp. Analítica de Datos Primer semestre G2] Eso hágalo, vamos a hacer esa prueba, yo nunca lo he hecho.
+
+[MAURICIO  MONTOYA RAMIREZ] Entonces aquí vamos nuevamente y nos vamos a meter antes. Compure.
+
+[Esp. Analítica de Datos Primer semestre G2] Compu a PPS.
+
+[MAURICIO  MONTOYA RAMIREZ] Se lo desde el principio. Alright, thank you. Okay, pess. Decimos queremos llegar. Ahora usted me dice que la vamos a hacer.
+
+[Esp. Analítica de Datos Primer semestre G2] And that's war.
+
+[MAURICIO  MONTOYA RAMIREZ] Con el dashboard que yo creé.
+
+[Esp. Analítica de Datos Primer semestre G2] Sí.
+
+[MAURICIO  MONTOYA RAMIREZ] ¿Bueno, entonces cómo voy loco?
+
+[Esp. Analítica de Datos Primer semestre G2] Crear a Pepe, dígale crear a Pepe, crear a Pepe en el azulito.
+
+[MAURICIO  MONTOYA RAMIREZ] Listo.
+
+[Esp. Analítica de Datos Primer semestre G2] Y decirle a dashboard, el tercero a baja donde dice el tercero,
+
+[MAURICIO  MONTOYA RAMIREZ] I was.
+
+[Esp. Analítica de Datos Primer semestre G2] no agents, no más arribita. Hello World, Agents, dashboard, mira, no más arriba,
+
+[MAURICIO  MONTOYA RAMIREZ] I stick.
+
+[Esp. Analítica de Datos Primer semestre G2] parce. Es el que acabo de pasar dashboard Hello World Agents dashboard al lado derecho es.
+
+[MAURICIO  MONTOYA RAMIREZ] I see.
+
+[Esp. Analítica de Datos Primer semestre G2] Al lado derecho agent sigue on board. Eso, ahora dígale crear con das, dígale ahí.
+
+[MAURICIO  MONTOYA RAMIREZ] Ver con das.
+
+[Esp. Analítica de Datos Primer semestre G2] Y dele hay clic.
+
+[MAURICIO  MONTOYA RAMIREZ] Listo, listo.
+
+[Esp. Analítica de Datos Primer semestre G2] Say the cooler waterhouse. Muy bien, dígale nest.
+
+[MAURICIO  MONTOYA RAMIREZ] Dice que hay que requiere ese dato.
+
+[Esp. Analítica de Datos Primer semestre G2] Sí, cámbielo. Sí, ¿a qué querés? Planest.
+
+[MAURICIO  MONTOYA RAMIREZ] Listémosle al mes.
+
+[Esp. Analítica de Datos Primer semestre G2] Elena.
+
+[MAURICIO  MONTOYA RAMIREZ] Ahora está pidiendo pidiendo.
+
+[Esp. Analítica de Datos Primer semestre G2] No sé el nombre a Pepe Stardashboard. No sé, es cómo agregarle, dale ahí, dale ahí, búscalo ahí. ¿Será que hay que ponerle el nombre exacto del dasboa? A mí no me está tampoco dando por acá.
+
+[MAURICIO  MONTOYA RAMIREZ] O sea, como yo lo nombré.
+
+[Esp. Analítica de Datos Primer semestre G2] Sí, exacto. Pero él te debería mostrar.
+
+[MAURICIO  MONTOYA RAMIREZ] Está buscando. Pues se supone que si yo tengo el dashboard creado me lo debería mostrar.
+
+[Esp. Analítica de Datos Primer semestre G2] Sí.
+
+[MAURICIO  MONTOYA RAMIREZ] Vea, yo le muestro por aquí el basbo.
+
+[Esp. Analítica de Datos Primer semestre G2] ¿Que no esperes copiar el nombre de Asboa?
+
+[MAURICIO  MONTOYA RAMIREZ] Espérate, pero.
+
+[Esp. Analítica de Datos Primer semestre G2] Sí está muy raro.
+
+[MAURICIO  MONTOYA RAMIREZ] Es que estás por aquí. So, notes por aquí ya tenemos estas datas.
+
+[Esp. Analítica de Datos Primer semestre G2] Mhm.
+
+[MAURICIO  MONTOYA RAMIREZ] Eso es todo el bar que creo. Veamos que cambiar dirección de enlace.
+
+[Esp. Analítica de Datos Primer semestre G2] Sí, copia completa.
+
+[MAURICIO  MONTOYA RAMIREZ] Please still.
+
+[Esp. Analítica de Datos Primer semestre G2] Bueno, vamos a terminar muchachos que ya está tardecita y si algo yo traigo la tarea para entre para el juegos. Y así cuando se dice que él lo encuentra.
+
+[MAURICIO  MONTOYA RAMIREZ] Ahí se lo di. Pero se está quedando aquí.
+
+[Esp. Analítica de Datos Primer semestre G2] Ven y hagamos una vuelta. Ya sé por donde se hace paz.
+
+[MAURICIO  MONTOYA RAMIREZ] Recent.
+
+[Esp. Analítica de Datos Primer semestre G2] Ya me la pillé y así terminamos la clase de hoy, hágala, pues no, hágalo usted,
+
+[MAURICIO  MONTOYA RAMIREZ] Si quieres entonces proyéctelo profe.
+
+[Esp. Analítica de Datos Primer semestre G2] hágalo usted para que lo le quede listo desde un principio.
+
+[MAURICIO  MONTOYA RAMIREZ] Stromes. Entonces nos vamos al principio, please.
+
+[Esp. Analítica de Datos Primer semestre G2] Porque esos que está generando ahí son puro Hello World, son por no aprender y como usted le puede decir páseme el código, usted ya le queda todo el código en Python y le puede cambiar huevonadas. Dale compu, dale a PPS, se me salió un en la grabación puede
+
+[MAURICIO  MONTOYA RAMIREZ] sí.
+
+[Esp. Analítica de Datos Primer semestre G2] poner un pitico que me salió una palabra. Crear Go to Data Brisa, app, crear app.
+
+[MAURICIO  MONTOYA RAMIREZ] Sí.
+
+[Esp. Analítica de Datos Primer semestre G2] Y dale customizar, queda el custom a Pepe. Entonces ponerle el nombre que usted quiera. Muy bien, dígale configurar el git. no lo vamos a bajar de un git.
+
+[MAURICIO  MONTOYA RAMIREZ] Okay, next. Okay, you come.
+
+[Esp. Analítica de Datos Primer semestre G2] No, más abajito, nest. No, ahí abajo no, eso no lo vamos a. Usted lo puede hablar de un de un
+
+[MAURICIO  MONTOYA RAMIREZ] T.
+
+[Esp. Analítica de Datos Primer semestre G2] repositorio, porque no, todavía no la cree. Bueno, y no vamos a bajarle un repo, dele configurate. Muy bien, entonces usted adicionado un recurso y uno usted puede agregar el dashboard. En este caso vamos a agregar un serving employ. Mire, usted puede crear un SQL, un check, un Jenny Space, se puede hacer un Jenny y ponerlo como un dashboard, lo vamos a dar la otra clase que es muy importante.
+
+[MAURICIO  MONTOYA RAMIREZ] Se supone que seleccionamos este.
+
+[Esp. Analítica de Datos Primer semestre G2] Cierto. O sea, tomaste más que opciones ahí ahí, parce. No, vení, nena, porque estás ahí, venís ahorita ahí. Adicionar recursión, adicionar recurso. Usted puede poner un database, un ML Flow Experiment, un serving Expo, dele un serv. O sea, usted puede poner un modelo para que lo ejecuten desde una de una app. Sí lo ven, hay muchas vueltas.
+
+[MAURICIO  MONTOYA RAMIREZ] Entonces.
+
+[Esp. Analítica de Datos Primer semestre G2] Dale en el serving en Point.
+
+[MAURICIO  MONTOYA RAMIREZ] Serving en Point.
+
+[Esp. Analítica de Datos Primer semestre G2] Sí.
+
+[MAURICIO  MONTOYA RAMIREZ] Listo.
+
+[Esp. Analítica de Datos Primer semestre G2] Es otro. Ya quedó, ya quedó cierto, entonces ya selecciona el serving en Point.
+
+[MAURICIO  MONTOYA RAMIREZ] Aquí.
+
+[Esp. Analítica de Datos Primer semestre G2] Sí.
+
+[MAURICIO  MONTOYA RAMIREZ] Eso, profesora, donde yo ya estaba.
+
+[Esp. Analítica de Datos Primer semestre G2] Modelo Mauricio cero 6 ahí modelos, práctica y ma, ahí no, ahí no está el que usted hizo, busque el que usted hizo. Ma de abajo, mamá, mamá.
+
+[MAURICIO  MONTOYA RAMIREZ] No tenemos sino de esos.
+
+[Esp. Analítica de Datos Primer semestre G2] Hay uno que se llama. Ve, porque no sale que usted sí debe estar. El GTE a venir porque está solamente los de la tabla y no sale el suyo. Bueno, diga, dando un poquito más, yo mira que.
+
+[MAURICIO  MONTOYA RAMIREZ] No, lo de paz es que está, acuérdense que los quedamos servidos fue este modelo y el de la práctica de esa imagen.
+
+[Esp. Analítica de Datos Primer semestre G2] Pero es que usted hizo listo, bueno, ponga el modelo Mauricio 0626. Los charros que está poniendo el modelo no le está apareciendo el servil en Point,
+
+[MAURICIO  MONTOYA RAMIREZ] Listo.
+
+[Esp. Analítica de Datos Primer semestre G2] dele ahí.
+
+[MAURICIO  MONTOYA RAMIREZ] Esto pues lo adicioné yo ahorita se puede quitar.
+
+[Esp. Analítica de Datos Primer semestre G2] De la. Bórralo. Muy bien, dígale, quítele eso. De clic ahí, delo ahí, can query, listo, está bien.
+
+[MAURICIO  MONTOYA RAMIREZ] T. Please do list.
+
+[Esp. Analítica de Datos Primer semestre G2] You are his a? Creo que ahí puedo utilizar un esquema o algo, no es necesario, dígale crear a Pepe.
+
+[MAURICIO  MONTOYA RAMIREZ] Okay.
+
+[Esp. Analítica de Datos Primer semestre G2] Se muere un ratico, pensando crear un error arriba.
+
+[MAURICIO  MONTOYA RAMIREZ] T. What's him? Let me say.
+
+[Esp. Analítica de Datos Primer semestre G2] Usted no crea otro con el mismo nombre. Ya sé por qué, porque usted ya hizo 2 a pps.
+
+[MAURICIO  MONTOYA RAMIREZ] No, no.
+
+[Esp. Analítica de Datos Primer semestre G2] Usted solamente usted no puede crear tanta p pero en la versión premium las
+
+[MAURICIO  MONTOYA RAMIREZ] Exacto.
+
+[Esp. Analítica de Datos Primer semestre G2] tiene que matar. Bueno, entonces la próxima clase vea, ¿qué vamos a hacer? Vamos a crear un genie.
+
+[MAURICIO  MONTOYA RAMIREZ] List.
+
+[Esp. Analítica de Datos Primer semestre G2] vamos a despegar la app todos ya los que no le logró por ejemplo lo que le pasó a Laura con el gen y tiene que generar la app listo vamos a hacer ya más o menos vemos cómo se hace y solamente pueden hacer uno o dos porque esto es versión
+
+[MAURICIO  MONTOYA RAMIREZ] Sí.
+
+[Esp. Analítica de Datos Primer semestre G2] estudiante después de desplegar el app vamos a ver cómo vamos a hacer pura sentencia vamos a aprender a utilizar la herramienta sql Que es muy importante en data estructurada y no estructurada, o sea, SQL y no SQL y vamos a mirar cómo de pronto se puede configurar la tabris local, que también es importante, o sea, la tabris no realmente es Spark. Ahora todos los componentes que les mostraron al lado izquierdo de. Hay un catálogo, ML flow, experiment, todo eso es open source, usted también lo puede instalar local si en algún momento sale más beneficioso hacer un proceso local que hacerlo por fuera. Bueno, muchachos, ya sé que está muy tarde descansar. Bueno, mañana nos vemos el jueves.
+
+[ANDRES FELIPE SUAREZ RAMIREZ] Ay, profe, gracias.
+
+[MAURICIO  MONTOYA RAMIREZ] It's a profit.
+
+[Esp. Analítica de Datos Primer semestre G2] Bien, muchas gracias. Gracias, hasta luego.
+
+[CAROLINA GARCIA PALACIO] Se profe, gracias. Gracias profe.
+
+[Esp. Analítica de Datos Primer semestre G2] Gracias profe, nos vemos en la gloria, chao.
+
+[JEFFERSON  SIERRA MORENO] Pues gracias, chao, chao.
+
+[LEDY LORENA LOZANO PALACIO] No.
+
+[SAIR STEPHANIA LOPEZ VALENCIA] Gracias, profe.
+
+[JEFFERSON  SIERRA MORENO] Sí.
+
+[HENRY ANTONIO  UYAZAN RODRIGUEZ] Listo, profe, profe, me completó su alta hasta ahora 10, listo.
