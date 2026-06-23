@@ -1,25 +1,8 @@
 # 📚 Big Data — Especialización en Analítica de Datos (1er semestre, G2 · 2026)
 
-> Repositorio del curso de Big Data y del **proyecto final**. Cubre arquitectura Medallion en Databricks, PySpark, machine learning y flujo de trabajo con GitHub. Docente: **Yeis Livis Taborda Henao** ([@yeiscop](https://github.com/yeiscop)) · UNAULA, Facultad de Economía.
+> **Material de clases y documentos** del curso de Big Data. Cubre arquitectura Medallion en Databricks, PySpark, machine learning, gobierno de datos con Unity Catalog y flujo de trabajo con GitHub. Docente: **Yeis Livis Taborda Henao** ([@yeiscop](https://github.com/yeiscop)) · UNAULA, Facultad de Economía.
 
----
-
-## 🚀 Cómo ejecutar este proyecto (TL;DR)
-
-```bash
-# 1. Clonar
-git clone https://github.com/juliomario11/Entrega_BIGDATA.git
-cd Entrega_BIGDATA
-
-# 2. Entorno
-python -m venv .venv && source .venv/bin/activate
-pip install -r requirements.txt
-
-# 3. En Databricks: importar la carpeta /notebooks como Git folder
-#    y ejecutar en orden: bronze -> silver -> gold -> modelo -> dashboard
-```
-
-> Detalle completo del pipeline en [`docs/EJECUCION.md`](./docs/EJECUCION.md).
+> ⚠️ **Alcance de este repositorio.** Aquí encontrarás **únicamente el material de clases** (transcripciones + resúmenes) **y los documentos del curso**. El **proyecto final completo** (código, pipeline Medallion, modelo y *serving*) vive en el repo **[agentes_ingesta_telecomunicaciones](https://github.com/juliomario11/agentes_ingesta_telecomunicaciones)**. Este repositorio **no contiene código del proyecto**.
 
 ---
 
@@ -35,28 +18,24 @@ Entrega_BIGDATA/
 │   ├── Clase_2_Transcripcion.txt
 │   ├── Clase_2_Transcripcion.vtt
 │   └── Resumen_Clase2_BigData.md
+├── Clase_3/
+│   ├── Clase_3_Transcripcion.txt
+│   ├── Clase_3_Transcripcion.vtt
+│   └── Resumen_Clase3_BigData.md
+├── Clase_4/
+│   ├── Clase_4_Transcripcion.txt
+│   ├── Clase_4_Transcripcion.vtt
+│   └── Resumen_Clase4_BigData.md
 ├── Documentos/
 │   ├── AI_Native_Data_Blueprint.pdf
 │   ├── Big_Data_UNAULA_First_Module.pdf
 │   ├── Big_Data_to_AgentOps.pdf
 │   ├── Modern_Data_Refinery.pdf
-│   └── PROYECTO_FINAL.pdf
-├── notebooks/              # ⬅️ FALTA: pipeline ejecutable
-│   ├── 01_bronze.py
-│   ├── 02_silver.py
-│   ├── 03_gold.py
-│   └── 04_modelo.py
-├── src/                    # funciones reutilizables (limpieza, features)
-├── docs/
-│   ├── EJECUCION.md
-│   ├── caso_de_negocio.md
-│   └── arquitectura.md
-├── data/                   # SOLO muestras pequeñas (datos reales NO se versionan)
-├── .gitignore
-├── requirements.txt
-├── LICENSE
+│   └── PROYECTO FINAL.pdf
 └── README.md
 ```
+
+> Cada carpeta `Clase_N/` contiene la **transcripción limpia** (`.txt`, con hablantes), la **transcripción original** (`.vtt`, con *timestamps*) y un **resumen** en Markdown.
 
 ---
 
@@ -66,16 +45,18 @@ Entrega_BIGDATA/
 |---|---|---|---|
 | **Clase 1** | 05 jun 2026 | Introducción a Big Data, las 5 V, setup de GitHub y Databricks | ✅ |
 | **Clase 2** | 06 jun 2026 | Plataformas de nube, profundización Medallion, PySpark y Genie | ✅ |
-| **Clase 3** | sáb 20 jun 2026 | Workshop: riesgo de crédito con dataset de Kaggle | ⏳ |
-| Clase 4 | lun 22 jun 2026 (~5:30 pm) | TBD | ⏳ |
-| Clase 5 | jue 25 jun 2026 (~5:30 pm) | TBD | ⏳ |
+| **Clase 3** | sáb 20 jun 2026 | Workshop: del modelo al *serving endpoint* (MLflow), Unity Catalog y datos no estructurados en Delta Lake | ✅ |
+| **Clase 4** | lun 22 jun 2026 | Pipelines Medallion (script vs declarativo/Lakeflow), CNN para clasificar imágenes reales vs IA, y linaje para auditoría | ✅ |
+| Clase 5 | jue 25 jun 2026 (~5:30 pm) | Genie + despliegue de la app, SQL/NoSQL y Databricks local | ⏳ |
 
-> El profesor viaja al **Databricks Summit (San Francisco)** del 15 al 18 de junio; regresa el 19 en la noche.
+> El profesor viajó al **Databricks Summit (San Francisco)** del 15 al 18 de junio; regresó el 19 en la noche.
 > En vez de una 6.ª clase, cada equipo tiene **3 asesorías de 45 min** (se piden por WhatsApp/correo).
 
 ---
 
 ## 🎯 Proyecto final — entrega: **29 de junio de 2026 (inamovible)**
+
+> El desarrollo (código, notebooks, pipeline, modelo y *serving*) se entrega en **[agentes_ingesta_telecomunicaciones](https://github.com/juliomario11/agentes_ingesta_telecomunicaciones)**. Lo de aquí es solo material de referencia del curso.
 
 Equipos de **2 personas (máx. 3)**. Componentes:
 
@@ -97,7 +78,7 @@ Equipos de **2 personas (máx. 3)**. Componentes:
 |---|---|
 | Procesamiento | Spark, PySpark, Kafka |
 | Visualización | Power BI, Tableau, Qlik Sense, Dash, Gradio |
-| ML / Modelado | scikit-learn, TensorFlow, PyTorch, MLflow |
+| ML / Modelado | scikit-learn, TensorFlow, PyTorch, MLflow, Optuna |
 | Exploración | pandas, NumPy, Matplotlib, Seaborn |
 | Bases de datos | Cassandra, MongoDB, Neo4j |
 | Storage | AWS S3, Azure ADLS Gen2, Google Cloud Storage |
@@ -126,8 +107,8 @@ Equipos de **2 personas (máx. 3)**. Componentes:
 | `AI_Native_Data_Blueprint.pdf` | Arquitectura de datos nativa para IA |
 | `Modern_Data_Refinery.pdf` | Transformación de datos a escala |
 | `Big_Data_to_AgentOps.pdf` | De Big Data a operaciones con agentes |
-| `PROYECTO_FINAL.pdf` | Especificaciones y criterios del proyecto |
+| `PROYECTO FINAL.pdf` | Especificaciones y criterios del proyecto |
 
 ---
 
-*Repo basado en un fork de [github.com/yeiscop/Big_Data](https://github.com/yeiscop/Big_Data). Última actualización: 14 de junio de 2026.*
+*Repo basado en un fork de [github.com/yeiscop/Big_Data](https://github.com/yeiscop/Big_Data). Material de clases del curso de Big Data, UNAULA — 2026.*
