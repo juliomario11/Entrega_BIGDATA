@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Exec(powershell)",
-      "Exec(python)",
-      "Exec(node)"
-    ]
-  }
-}
